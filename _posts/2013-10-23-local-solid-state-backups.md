@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/local-solid-state-backups.jpg
+cover: assets/images/local-solid-state-backups.jpg
 navigation: false
 title: "Local solid state backups"
 date: 2013-10-23 10:18:00
@@ -12,9 +12,9 @@ logo: assets/images/ghost.png
 author: ghost
 ---
 
-Its a real pain to always be plugging in an external HDD to backup your computer. For that reason, people tend to not do it as frequently as they should. Another solution is to do it wirelessly over the network with some kind of NAS but that can be slow and it’s only available when you’re in THAT network. 
+Its a real pain to always be plugging in an external HDD to backup your computer. For that reason, people tend to not do it as frequently as they should. Another solution is to do it wirelessly over the network with some kind of NAS but that can be slow and it’s only available when you’re in THAT network.
 
-Allow me to introduce you to local continuous solid-state backups. You’ll need three things. 
+Allow me to introduce you to local continuous solid-state backups. You’ll need three things.
 
 **1. The Nifty micro SD card adapter**
 

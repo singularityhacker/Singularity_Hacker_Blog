@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/personal-software-agents-in-an-information-economy.jpg
+cover: assets/images/personal-software-agents-in-an-information-economy.jpg
 navigation: false
 title: "Personal Software Agents In An Information Economy"
 date: 2012-08-30 10:18:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/optimize-your-search-space.jpg
+cover: assets/images/optimize-your-search-space.jpg
 navigation: false
 title: "Optimize Your Search Space"
 date: 2013-02-12 10:18:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/api-first-fruits-scripting-automation-for-the.jpg
+cover: assets/images/api-first-fruits-scripting-automation-for-the.jpg
 navigation: false
 title: "API First Fruits: Scripting & Automation for the Masses"
 date: 2012-09-21 10:18:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/cloud-services-cant-be-trusted-client-side.jpg
+cover: assets/images/cloud-services-cant-be-trusted-client-side.jpg
 navigation: false
 title: "Cloud Services Can’t be Trusted: Client-side Crypto to The Rescue"
 date: 2013-07-26 10:18:00

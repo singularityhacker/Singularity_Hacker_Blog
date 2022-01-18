@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/lifelogging-and-digital-immortalityyou-cant-regulate-the-singularity.jpg
+cover: assets/images/lifelogging-and-digital-immortalityyou-cant-regulate-the-singularity.jpg
 navigation: false
 title: "Full Stack Developers: Renaissance Men of The 21st Century"
 date: 2013-05-28 10:18:00

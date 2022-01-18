@@ -1,10 +1,10 @@
 ---
 layout: post
 current: post
-cover: /assets/images/living-code-future-software-will-rewrite-its-own.jpg
+cover: assets/images/living-code-future-software-will-rewrite-its-own.jpg
 navigation: false
 title: "Living Code: Future software will rewrite its own source code"
-date: 2013-12-17 10:18:00
+date: 2013-12-16 10:18:00
 tags: []
 class: post-template
 subclass: "post"

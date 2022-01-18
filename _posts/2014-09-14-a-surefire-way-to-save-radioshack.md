@@ -1,10 +1,10 @@
 ---
 layout: post
 current: post
-cover: /assets/images/a-surefire-way-to-save-radioshack.jpg
+cover: assets/images/a-surefire-way-to-save-radioshack.jpg
 navigation: false
 title: " A Surefire Way to Save RadioShack"
-date: 2014-09-12 10:18:00
+date: 2014-09-14 10:18:00
 tags: [radioshack, 3dprinter, makerbot]
 class: post-template
 subclass: "post"

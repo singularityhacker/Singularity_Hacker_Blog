@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/nine-magical-features-left-out-of-the-iphone-5.jpg
+cover: assets/images/nine-magical-features-left-out-of-the-iphone-5.jpg
 navigation: false
 title: "Nine Magical Features Left Out of the iPhone 5"
 date: 2012-09-24 10:18:00

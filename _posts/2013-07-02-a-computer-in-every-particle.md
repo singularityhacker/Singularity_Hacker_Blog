@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/a-computer-in-every-particle.jpg
+cover: assets/images/a-computer-in-every-particle.jpg
 navigation: false
 title: "Cloud Services Can’t be Trusted: Client-side Crypto to The Rescue"
 date: 2013-07-02 10:18:00

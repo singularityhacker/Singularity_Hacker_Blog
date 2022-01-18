@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/a-million-simulations.jpg
+cover: assets/images/a-million-simulations.jpg
 navigation: false
 title: "A Million Simulations"
 date: 2013-06-29 10:18:00

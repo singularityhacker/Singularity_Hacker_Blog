@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/the-stupidity-of-windows-8-in-a-nutshell.jpg
+cover: assets/images/the-stupidity-of-windows-8-in-a-nutshell.jpg
 navigation: false
 title: "Whistleblower Movie NigThe Stupidity of Windows 8 in a Nutshell"
 date: 2013-11-23 10:18:00

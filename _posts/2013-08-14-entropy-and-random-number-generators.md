@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/entropy-and-random-number-generators.jpg
+cover: assets/images/entropy-and-random-number-generators.jpg
 navigation: false
 title: "Entropy and Random Number Generators"
 date: 2013-08-14 10:18:00

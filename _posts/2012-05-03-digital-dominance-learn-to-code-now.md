@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/digital-dominance-learn-to-code-now.jpg
+cover: assets/images/digital-dominance-learn-to-code-now.jpg
 navigation: false
 title: "Digital Dominance: Learn to code. Now."
 date: 2012-05-03 10:18:00
