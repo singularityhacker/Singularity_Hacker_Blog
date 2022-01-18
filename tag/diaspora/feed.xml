@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/diaspora/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/diaspora/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">CombatOps: Running Wars from a Keyboard</title>
+      <link href="/combatops" rel="alternate" type="text/html" title=" CombatOps: Running Wars from a Keyboard " />
+      <published>2014-10-14T10:18:00+00:00</published>
+      <updated>2014-10-14T10:18:00+00:00</updated>
+      <id>/combatops</id>
+      <content type="html" xml:base="/combatops">&lt;p&gt;There’s no free lunch. Every strength has a cost. The same technologies that enable distributed anonymous communication enable terrorist organizations to communicate unimpeded. Or the same advances in additive manufacturing make it possible to print firearms from the comfort of your bedroom.&lt;/p&gt;
+
+&lt;p&gt;This creates a genuine dilemma for nation states trying to enforce the rule of law in a technological singularity. It is, today, possible to start a full blown war from a keyboard.. full stop. I want to talk about three mechanisms that are being leveraged to do that very thing.&lt;/p&gt;
+
+&lt;p&gt;Communication: Who needs dead drops and burner phones when you have distributed social networks. Enter Diaspora. Diaspora came about because people didn’t want Facebook to own their data. Diaspora operates on a node/pod basis such that each pod is autonomous and shares its users info with other pods. Any one can fork the Diaspora code and fire up a pod on any server. Instant scalable social network. Strangely enough, it’s the primary means the terrorist group &lt;a href=&quot;https://href.li/?http://www.theguardian.com/technology/2014/aug/21/islamic-state-isis-social-media-diaspora-twitter-clampdown&quot;&gt;ISIS is using to communicate now&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Funding: Money laundering is so old-timey. With Bitcoin, or any altcoin for that matter, even high profile figures can funnel unlimited funds to special interest groups anonymously. It effectively becomes possible to crowdsource military operations from a keyboard from within the state you are waging war against using it’s own economy and citizens.&lt;/p&gt;
+
+&lt;p&gt;Armaments: Arms dealing is dead. &lt;a href=&quot;https://href.li/?http://www.wired.com/2014/05/3d-printed-guns/&quot;&gt;3D printed firearms have disrupted the scene&lt;/a&gt;. Printed firearms are undetectable and untraceable and can be assembled on a just-in-time bases. And it’s not just firearms any more. &lt;a href=&quot;https://href.li/?http://www.wired.com/2014/09/military-grade-drone-can-printed-anywhere/&quot;&gt;Printed drones are becoming a thing&lt;/a&gt;. I’m envisioning a future where you can have a war kit in a suitcase. Open it up and guns and a cloud of drones fly out. Yesterdays crockpot bomb is tomorrows printed nuke.&lt;/p&gt;
+
+&lt;p&gt;Last but not least we have advances in Intelligent Systems. The concept of a DAC (Distributed Autonomous Corporations) can and is being applied to combatant endeavors in the form of &lt;a href=&quot;https://href.li/?http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/&quot;&gt;assassination markets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Combat DACs can be disastrous to standard counter terrorism techniques which rely on social network analysis (SNA) to ferret out cells and cell  members. Using a DAC would mean there’s no critical communication between cell groups or cell members  and that no single operative has enough knowledge to compromise the operation. Each player would be independently directed by the DAC to achieve the overarching mission.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog-img-5.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you haven’t seen Balaji Srinivasan’s talk on &lt;a href=&quot;https://href.li/?http://www.youtube.com/watch?v=cOubCHLXT6A&quot;&gt;Silicon Valley’s Ultimate Exit&lt;/a&gt; then watch it now. What he describes is an opting out of nation-state citizenship on a technological and economic level. The idea is that you could have cyber nations on top of “real” ones. The interesting part about the above observations is that it’s not only possible to opt out in the Srinivasan fashion but also possible for these cyber nations to wage war against the meatspace nations they inhabit and to, there by, assert their own sovereignty.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cyberwar" />
+      
+        <category term="bitcoin" />
+      
+        <category term="3dprinter" />
+      
+        <category term="diaspora" />
+      
+        <category term="singularity" />
+      
+
+      
+        <summary type="html">There’s no free lunch. Every strength has a cost. The same technologies that enable distributed anonymous communication enable terrorist organizations to communicate unimpeded. Or the same advances in additive manufacturing make it possible to print firearms from the comfort of your bedroom.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

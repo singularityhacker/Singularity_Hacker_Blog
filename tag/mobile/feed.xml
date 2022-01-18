@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/mobile/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/mobile/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Handheld Linux Deck</title>
+      <link href="/handheld-linux-consoles" rel="alternate" type="text/html" title="Handheld Linux Deck" />
+      <published>2014-06-07T10:18:00+00:00</published>
+      <updated>2014-06-07T10:18:00+00:00</updated>
+      <id>/handheld-linux-consoles</id>
+      <content type="html" xml:base="/handheld-linux-consoles">&lt;p&gt;&lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Pandora_(console)&quot;&gt;OpenPandora&lt;/a&gt; is the only fully functioning mobile Linux console on the market that I’m aware of. It’s part handheld game console and part subnotebook. Full part awesome!&lt;/p&gt;
+
+&lt;p&gt;The latest model of the computer is called the &lt;a href=&quot;https://href.li/?http://www.pyra-handheld.com/&quot;&gt;Pyra&lt;/a&gt; and it’s being crowd-designed right now. No predictions on price yet. Why is this such a cool piece of gear?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/bloh-7.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is not a tablet or a phone aka a baby/micro computer. It’s a full-blown computer. The real deal. And it’s not locked away on a flash drive like the many Android “USB computers” that have come out in the past few years. You pull it from your back pocket and you have a keyboard, touchscreen, usb ports, etc. That being said, there are a few specific features I’d really like to see in future generations:&lt;/p&gt;
+
+&lt;p&gt;\1. Backlit keyboard&lt;/p&gt;
+
+&lt;p&gt;\2. Onboard power so you can swap batteries without powering down&lt;/p&gt;
+
+&lt;p&gt;\3. A rear eInk screen&lt;/p&gt;
+
+&lt;p&gt;That last request would be insane. eInk is an underutilized technology. Check out the &lt;a href=&quot;https://href.li/?http://techcrunch.com/2014/02/23/next-gen-yotaphone/&quot;&gt;Yota phone&lt;/a&gt; as an amazing example.&lt;/p&gt;
+
+&lt;p&gt;The would love to see the whole project crowdfunded through something with a little more traffic like &lt;a href=&quot;https://href.li/?https://www.kickstarter.com/&quot;&gt;Kickstarter&lt;/a&gt;. Until then, it will likely continue to be a niche and hard-to-find computer.&lt;/p&gt;
+
+&lt;p&gt;There is only one &lt;a href=&quot;https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.ebay.com%2Fitm%2FOpen-Pandora-600MHz-Handheld-Console-Computer-Linux-Like-New-%2F261474920033%3F&amp;amp;t=MDY2Y2E1ZGRhNTk2NDE2YjY3NWIyNWE1ZGY3OTkyYWE0Y2EwODFmMCxCSWV1d2VybA%3D%3D&amp;amp;b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&amp;amp;p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F85123100345%2Fhandheld-linux-consoles&amp;amp;m=1&amp;amp;ts=1642047027&quot;&gt;OpenPandora on eBay right now&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="pandora" />
+      
+        <category term="linux" />
+      
+        <category term="computers" />
+      
+        <category term="hacking" />
+      
+        <category term="mobile" />
+      
+
+      
+        <summary type="html">OpenPandora is the only fully functioning mobile Linux console on the market that I’m aware of. It’s part handheld game console and part subnotebook. Full part awesome!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

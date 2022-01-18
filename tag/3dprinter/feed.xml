@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/3dprinter/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/3dprinter/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">CombatOps: Running Wars from a Keyboard</title>
+      <link href="/combatops" rel="alternate" type="text/html" title=" CombatOps: Running Wars from a Keyboard " />
+      <published>2014-10-14T10:18:00+00:00</published>
+      <updated>2014-10-14T10:18:00+00:00</updated>
+      <id>/combatops</id>
+      <content type="html" xml:base="/combatops">&lt;p&gt;There’s no free lunch. Every strength has a cost. The same technologies that enable distributed anonymous communication enable terrorist organizations to communicate unimpeded. Or the same advances in additive manufacturing make it possible to print firearms from the comfort of your bedroom.&lt;/p&gt;
+
+&lt;p&gt;This creates a genuine dilemma for nation states trying to enforce the rule of law in a technological singularity. It is, today, possible to start a full blown war from a keyboard.. full stop. I want to talk about three mechanisms that are being leveraged to do that very thing.&lt;/p&gt;
+
+&lt;p&gt;Communication: Who needs dead drops and burner phones when you have distributed social networks. Enter Diaspora. Diaspora came about because people didn’t want Facebook to own their data. Diaspora operates on a node/pod basis such that each pod is autonomous and shares its users info with other pods. Any one can fork the Diaspora code and fire up a pod on any server. Instant scalable social network. Strangely enough, it’s the primary means the terrorist group &lt;a href=&quot;https://href.li/?http://www.theguardian.com/technology/2014/aug/21/islamic-state-isis-social-media-diaspora-twitter-clampdown&quot;&gt;ISIS is using to communicate now&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Funding: Money laundering is so old-timey. With Bitcoin, or any altcoin for that matter, even high profile figures can funnel unlimited funds to special interest groups anonymously. It effectively becomes possible to crowdsource military operations from a keyboard from within the state you are waging war against using it’s own economy and citizens.&lt;/p&gt;
+
+&lt;p&gt;Armaments: Arms dealing is dead. &lt;a href=&quot;https://href.li/?http://www.wired.com/2014/05/3d-printed-guns/&quot;&gt;3D printed firearms have disrupted the scene&lt;/a&gt;. Printed firearms are undetectable and untraceable and can be assembled on a just-in-time bases. And it’s not just firearms any more. &lt;a href=&quot;https://href.li/?http://www.wired.com/2014/09/military-grade-drone-can-printed-anywhere/&quot;&gt;Printed drones are becoming a thing&lt;/a&gt;. I’m envisioning a future where you can have a war kit in a suitcase. Open it up and guns and a cloud of drones fly out. Yesterdays crockpot bomb is tomorrows printed nuke.&lt;/p&gt;
+
+&lt;p&gt;Last but not least we have advances in Intelligent Systems. The concept of a DAC (Distributed Autonomous Corporations) can and is being applied to combatant endeavors in the form of &lt;a href=&quot;https://href.li/?http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/&quot;&gt;assassination markets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Combat DACs can be disastrous to standard counter terrorism techniques which rely on social network analysis (SNA) to ferret out cells and cell  members. Using a DAC would mean there’s no critical communication between cell groups or cell members  and that no single operative has enough knowledge to compromise the operation. Each player would be independently directed by the DAC to achieve the overarching mission.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog-img-5.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you haven’t seen Balaji Srinivasan’s talk on &lt;a href=&quot;https://href.li/?http://www.youtube.com/watch?v=cOubCHLXT6A&quot;&gt;Silicon Valley’s Ultimate Exit&lt;/a&gt; then watch it now. What he describes is an opting out of nation-state citizenship on a technological and economic level. The idea is that you could have cyber nations on top of “real” ones. The interesting part about the above observations is that it’s not only possible to opt out in the Srinivasan fashion but also possible for these cyber nations to wage war against the meatspace nations they inhabit and to, there by, assert their own sovereignty.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cyberwar" />
+      
+        <category term="bitcoin" />
+      
+        <category term="3dprinter" />
+      
+        <category term="diaspora" />
+      
+        <category term="singularity" />
+      
+
+      
+        <summary type="html">There’s no free lunch. Every strength has a cost. The same technologies that enable distributed anonymous communication enable terrorist organizations to communicate unimpeded. Or the same advances in additive manufacturing make it possible to print firearms from the comfort of your bedroom.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">A Surefire Way to Save RadioShack</title>
+      <link href="/a-surefire-way-to-save-radioshack" rel="alternate" type="text/html" title=" A Surefire Way to Save RadioShack" />
+      <published>2014-09-14T10:18:00+00:00</published>
+      <updated>2014-09-14T10:18:00+00:00</updated>
+      <id>/a-surefire-way-to-save-radioshack</id>
+      <content type="html" xml:base="/a-surefire-way-to-save-radioshack">&lt;p&gt;The news is bleak. RadioShack is pretty much doomed and will soon be filing for bankruptcy. While this isn’t a surprise (the company has been dying slowly over the last couple of years), I think they can be saved by a pivot. That pivot entails serving and catering to the maker community.&lt;/p&gt;
+
+&lt;p&gt;Dump the phones and set up a couple 3d printers for on-demand printing. Turn the space into a consumer maker space. Customers would be able to come in and watch as their request is printed right in front of them and/or the option to pay for a monthly membership that includes discounted rates and maker classes.&lt;/p&gt;
+
+&lt;p&gt;Why this would work:&lt;/p&gt;
+
+&lt;p&gt;\1. Opportunity. Its an untapped market. Nobody is doing this. Where can you find hardware components, servo motors, and electrical blueprints besides online? Nowhere but RadioShack. Leverage your strengths and the brand recognition you already have!&lt;/p&gt;
+
+&lt;p&gt;\2. Demand. Geeks are tripping over each other to have something like this. The maker scene is so hot that people band together to pool their money and rent space and equipment to launch their own maker spaces. The market is begging for a commercial maker spot.&lt;/p&gt;
+
+&lt;p&gt;\3. Position. It’s in line with RadioShacks historic origins: I remember Steve Wozniak talking excitedly about getting hardware components and schematics as a kid from RadioShack. Embrace your identity! Your future is in the back of the store where the Arduino boards and soldering irons are, not in the front with the feature phones.&lt;/p&gt;
+
+&lt;p&gt;\4. Price. The price of 3d printers is plummeting. This means RadioShack could buy higher end models for cheap and sell the basic models at high margin.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog-6.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Picture the new RadioShack commercials…&lt;/p&gt;
+
+&lt;p&gt;A guy wearing expensive sunglasses leans over to another guy wearing really cool original shades and says “Dude, where did you get those amazing shades?” Second guy replies “Thanks, I made them. Where’d you get yours?” First guy, crest fallen, replies “Oh, at the outlet for $200.” He then notices that several other guys are wearing his exact same shades in the background. #radioshack&lt;/p&gt;
+
+&lt;p&gt;A kid walks past a billboard advertising Google Glass and stops to ponder inquisitively. He goes home and searches relentlessly online, furiously taking notes [&lt;a href=&quot;https://href.li/?https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=video&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=0CB0QtwIwAA&amp;amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKbrVeds5sKM&amp;amp;ei=SwoTVIffHKj9sATLmYCYBQ&amp;amp;usg=AFQjCNGE1NUgH9iy9e7zeQFgyuEScvlQNA&amp;amp;sig2=1SeZhRza_b1jMqcGecbqLg&amp;amp;bvm=bv.75097201,d.aWw&quot;&gt;beautiful mind music starts&lt;/a&gt;]. Now you see him walking into RadioShack, grabbing things off the shelf, a friendly RadioShack employee assists him while his creation is being printed at 3d printer station. He’s now walking out the store wearing and talking to his homemade Google Glass. He passes an elderly woman on the sidewalk who looks and points at him, whispering to her husband in utter befuddlement. #radioshack&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog-7.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mark my words RadioShack. Do this and you will not only be saved, but you will thrive. You will be reborn. Reinvented. What do you have to lose?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="radioshack" />
+      
+        <category term="3dprinter" />
+      
+        <category term="makerbot" />
+      
+
+      
+        <summary type="html">The news is bleak. RadioShack is pretty much doomed and will soon be filing for bankruptcy. While this isn’t a surprise (the company has been dying slowly over the last couple of years), I think they can be saved by a pivot. That pivot entails serving and catering to the maker community.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/singularity/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/singularity/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Out to Sea</title>
+      <link href="/7-power-laws-of-the-technological-singularity" rel="alternate" type="text/html" title="Out to Sea" />
+      <published>2020-11-20T10:18:00+00:00</published>
+      <updated>2020-11-20T10:18:00+00:00</updated>
+      <id>/7-power-laws-of-the-technological-singularity</id>
+      <content type="html" xml:base="/7-power-laws-of-the-technological-singularity">&lt;p&gt;When people talk about the technological singularity they usually do so exclusively in the context of Moore’s Law. But there are several Moore’s Law-like laws at work in the world and each of them is equally baffling. I’m referring to this list of trends as “power laws” because of the nature of their incredible rate of growth and because they independently work as pistons driving the engine of the singularity. A few things to note about these power laws. Firstly they are just observations. There are no, known, deeper physical principles in the universe that would lead us to believe that they must hold true. Secondly, we’ve observed these trends long enough to warren their recognition as power laws and there is no evidence or signs of their stagnating. We’ll start with the most famous and well-known power law and work our way through the others.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-moores-law&quot;&gt;&lt;strong&gt;1. Moore’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Moore’s Law states that transistors on a chip double about every two years and that the cost of that doubling halves. This is a double-edged sword. It means that the next model computer will be way faster than the previous but it also means that the value of your existing computer is dropping rapidly. The end of Moore’s Law has been proclaimed for a long time but there seems to be &lt;a href=&quot;https://href.li/?https://medium.com/predict/moores-law-is-alive-and-well-eaa49a450188&quot;&gt;no end to its progression&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As we reach the physical limits of transistor sizes, entirely new hardware architectures are developed that sustain the progression. Things like 3D chips, specialized chips, and non-silicon based chips like photonics, spintronics, and neuromorphic chips are being developed and will ensure that this law continues.&lt;/p&gt;
+
+&lt;p&gt;“Regular boosts to computing performance that used to come from Moore’s Law will continue, and will instead stem from changes to how chips are designed.” — Mike Muller, CTO at ARM&lt;/p&gt;
+
+&lt;p&gt;What this does not mean is that a user’s experience of computer speed will increase. We tend to be more sloppy with application development when it’s cheap to make up for it with hardware horsepower. There is a standing joke that the same amount of computing resources that were used to send astronauts to the moon in the ’60s is now accidentally used by a sluggish browser tab.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-kryders-law&quot;&gt;&lt;strong&gt;2. Kryder’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The second law driving our propulsion into the technological singularity is Kryder’s Law. It states, loosely, that digital storage doubles every year. It specifically has to do with magnetic storage but the principle is applicable to all digital storage as you will see. While you may not see this law exactly played out in the price of external drives in your local Best Buy, you can see it if you consider the price of cloud storage services.&lt;/p&gt;
+
+&lt;p&gt;Let’s look at the current top cloud storage providers. Apple offers two terabytes of cloud storage for about $10 a month. Google offers the same space for the same price as well as 10 terabytes for about $100 a month. After that, users can get 20 terabytes for $200 a month, 30 terabytes for $300 a month, and so on. Dropbox offers yet a similar package but with extras like full-text search for $20 a month. Lastly and most competitive is Amazon offering an incredible $0.004 per gigabyte per month through its Glacier storage service. When you take these cloud providers into account and consider that they will only grow via economies of scale, you see that Kryder’s law is in full effect.&lt;/p&gt;
+
+&lt;p&gt;Note that this also doesn’t even take into consideration innovations like &lt;a href=&quot;https://href.li/?https://en.wikipedia.org/wiki/Filecoin&quot;&gt;Filecoin&lt;/a&gt; that actually distribute Kryder’s Law by allowing anyone with storage capacity to rent that space out. You could look at it like Uber or Airbnb for digital storage. This highlights the idea that this digital power law, like the others, should not be strictly tied to a hardware implementation. Similar to how Moore’s Law continues but not strictly through cramming more transistors on a chip but through new engineering architectures. The same principle applies.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-nielsens-law&quot;&gt;&lt;strong&gt;3. Nielsen’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Thirdly, we have Nielsen’s Law. If the previous laws could be summarized as computation and storage, this one is summarized as throughput. It states that bandwidth grows by 50% a year. More precisely, it states that the bandwidth of high-end users grows by 50% a year. That’s just 10% less annual growth than Moore’s Law.&lt;/p&gt;
+
+&lt;p&gt;In practice, we don’t see this linear growth and there are three reasons for it. One, Telecom companies are conservative. It cost billions of dollars to update their sprawling hardware. Two. The immediate impact of the end-user is not a guaranteed faster experience if they do upgrade their infrastructure. You can have the fastest hardware in the world on your street but that doesn’t automatically make the rest of the countries hardware faster. That slow loading web page may only be imperceptible faster after your area’s hardware is upgraded. Lastly, as new people get online, it’s more likely they are using older slower devices so the average expected speed is kept pressed down by these newcomers.&lt;/p&gt;
+
+&lt;p&gt;Since 1G was introduced in the 1980s, new wireless technology has been released every ten years. The advent of 1G introduced mobile telephony. Than 2G in the ’90s brought about global roaming and SMS. The 200’s saw 3G and smartphones with data. 2010 introduced 4G and mobile broadband. The year 2020 will be the year of 5G and the realization of the fully ubiquitous cloud. To put this in perspective, let’s say you wanted to download the newest episode of your favorite television show. At 800MB it would have taken 8 hours hrs to download in 1998, 5 hrs in 2001, 45 minutes in 2009, and 1 second with the new wireless protocol.&lt;/p&gt;
+
+&lt;p&gt;The impact and roll out of 5G will be enormous. With current networks, it takes about 100 milliseconds for information to travel across a network. With 5G, that latency will be reduced to 1 millisecond. We are talking about downloading full-length 5k movies in less than a second, surgeons controlling surgical robots in real-time from across the country, smart cities, and smart car-to-car communications.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-koomeys-law&quot;&gt;&lt;strong&gt;4. Koomey’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Koomey’s law has to do with the efficient use of energy and states that the number of computations per joule of energy dissipated has been doubling approximately every 1.57 years. This trend has been stable since the 1950s and has been faster than Moore’s law. Jonathan Koomey reframed the trend as follows: “at a fixed computing load, the amount of battery you need will fall by a factor of two every year and a half”. You can see the effect of this law in today’s newest generation CPU’s (Apple’s M1 chip) that are pumping out incredible amounts of processing power at significantly reduced levels of energy consumption.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-metcalfes-law&quot;&gt;&lt;strong&gt;5. Metcalfe’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;This power law with its closely associated cousin, the network effect, asserts that the value of a network is proportional to how many users are a part of it and that the addition of a new member adds value to all the existing members. A good example of this power law at work are social media sites like Facebook and YouTube. These sites had no revenue model in the beginning and were very expensive to run but grew to have so many users that the value grew directly from the value of the size of the network itself. Not too many years ago, software products had to packaged on physical media and shipped through the mail to users. Now, the same products can be built and deployed to one of any number of app stores and have a global audience with little to no overhead.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-hendys-law&quot;&gt;&lt;strong&gt;6. Hendy’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Next, consider Hendy’s Law. Hendy’s Law states that the number of pixels per dollar in a digital camera doubles every two years. We can generalize this trend to encompass the idea that our ability to capture images and video of the world is exponentially improving year over year. This improvement opens the door to such high-fidelity VR and lifelogging that our human senses begin to find synthetic media and real-life indistinguishable. This already exists in the form of gigapixel photography where images are used instead of real specimens in biological study where we can’t tell the difference even under a microscope. Imagine being able to photograph a group of people and then zoom in so close later that you can identify properties of their cellular biology.&lt;/p&gt;
+
+&lt;h2 id=&quot;7-bells-law&quot;&gt;&lt;strong&gt;7. Bell’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Last on our list is Bell’s Law. It says a new class of smaller, cheaper computers comes along about every decade. With each new class, the volume shrinks by two orders of magnitude, and the number of systems per person increases. The law has held from 1960s’ mainframes through the ‘80s’ personal computers, the ‘90s’ notebooks, and the new millennium’s smart phones. This is likely manifesting in the realm of wearable right now with the wild success of smart watched and wireless intelligent earbuds.&lt;/p&gt;
+
+&lt;p&gt;To wrap this up and summarize, while there may be temporary or geographically isolated stalls in the progression of these laws, they are still holding steady. You might compare them to walking up a set of stairs. At various points in your travel up the stairs, you rise up very high and then drop low. You do not move at a constant linearly increasing height. You go up and down but the trend is a clear move upwards. Through that up and down, you are converging on a net increase. The same is true of these digital laws. The overarching result is that software is eating the world and eating itself, recursively accelerating the process even further. One doesn’t need to theorize about potential advances in machine intelligence to see that we are accelerating into an unimaginable future. A clear technological singularity.&lt;/p&gt;
+
+&lt;p&gt;If none of the above convinces I will leave you with this chart illustrating the grown of the global economy. Assuming the continuation of these power laws, where are we 50–100 years from now?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog-img-2.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="technological" />
+      
+        <category term="singularity" />
+      
+        <category term="technology" />
+      
+
+      
+        <summary type="html">When people talk about the technological singularity they usually do so exclusively in the context of Moore’s Law. But there are several Moore’s Law-like laws at work in the world and each of them is equally baffling. I’m referring to this list of trends as “power laws” because of the nature of their incredible rate of growth and because they independently work as pistons driving the engine of the singularity. A few things to note about these power laws. Firstly they are just observations. There are no, known, deeper physical principles in the universe that would lead us to believe that they must hold true. Secondly, we’ve observed these trends long enough to warren their recognition as power laws and there is no evidence or signs of their stagnating. We’ll start with the most famous and well-known power law and work our way through the others.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Previous Attempts To Regulate Automation</title>
+      <link href="/previous-attempts-to-regulate-automation" rel="alternate" type="text/html" title="Previous Attempts To Regulate Automation" />
+      <published>2015-04-18T10:18:00+00:00</published>
+      <updated>2015-04-18T10:18:00+00:00</updated>
+      <id>/previous-attempts-to-regulate-automation</id>
+      <content type="html" xml:base="/previous-attempts-to-regulate-automation">&lt;p&gt;In 1987 the world had its first electronic stock exchange, the NASDAQ terminal. Traders could now type orders directly into a computer.&lt;/p&gt;
+
+&lt;p&gt;A trader named Thomas Peterffy didn’t want to type in the orders so he and his engineers hacked into the NASDAQ terminal such that it could be wired directly to their own computer, which traded automatically based on algorithms.&lt;/p&gt;
+
+&lt;p&gt;A senior NASDAQ official saw Peterffy’s setup and said Peterffy was breaking the rules: All orders had to be entered through the keyboard. He gave Petterfy’s group one week to fix the problem.&lt;/p&gt;
+
+&lt;p&gt;Peterffy and his engineers came up with a solution. They built a mechanical robot with rubber fingers that typed entries into the keyboard. It’s reported that the inspector stormed out of the room upon seeing the hulking machine but it technically satisfied the NASDAQ rules. Traders said that on active trading days, the robot typed so fast that it sounded like a machine gun.&lt;/p&gt;
+
+&lt;p&gt;Peterffy became the father of digital trading. He would write code in his head during the trading day and then apply his ideas to computerized trading models after hours.&lt;/p&gt;
+
+&lt;p&gt;The rise of high-frequency trading in the stock market from January 2007 through January 2012.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="high frequency trading" />
+      
+        <category term="singularity" />
+      
+        <category term="automation" />
+      
+
+      
+        <summary type="html">In 1987 the world had its first electronic stock exchange, the NASDAQ terminal. Traders could now type orders directly into a computer.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Economy 2.0</title>
+      <link href="/economy-2-0" rel="alternate" type="text/html" title="Economy 2.0" />
+      <published>2015-01-03T10:18:00+00:00</published>
+      <updated>2015-01-03T10:18:00+00:00</updated>
+      <id>/economy-2-0</id>
+      <content type="html" xml:base="/economy-2-0">&lt;p&gt;The future economy will barely be recognizable to human beings. Human minds will not play a signifiant roll in the economy that will be a characteristic of the technological singularity. This has already begun on the stock market in high frequency trading. The future is automation and intelligent systems. This is causing many people to freak out about the possibility of historically unprecedented unemployment. But machine automation is not the whole story.&lt;/p&gt;
+
+&lt;p&gt;In Peter Thiel’s book &lt;a href=&quot;https://href.li/?http://zerotoonebook.com/&quot;&gt;Zero to One&lt;/a&gt;, he talks about the one two punch of human ingenuity and machine automation. He tells of how PayPal tried to completely automate their fraud detection but only discovered a successful approach when they adopted a combination strategy leveraging machine and human strengths. Human micro services are the other side of machine automation in the singularity.&lt;/p&gt;
+
+&lt;p&gt;What cannot be automated will be farmed out in the form of micro services. One only has to look at &lt;a href=&quot;https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.uber.com%2F&amp;amp;t=N2ZjODkyNmE1MmQ2ODk4YzJiMzBiMzJkNjkzZDM5MWIyMTBiM2EzYyx3dmljakphNQ%3D%3D&amp;amp;b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&amp;amp;p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F107072514020%2Feconomy-2-0&amp;amp;m=1&amp;amp;ts=1642046840&quot;&gt;Uber&lt;/a&gt;, &lt;a href=&quot;https://t.umblr.com/redirect?z=http%3A%2F%2Fblogs.wsj.com%2Fdigits%2F2014%2F08%2F11%2Ffiverr-raises-30m-for-services-marketplace%2F&amp;amp;t=MjQwMzZlYTRiNGI5MjYyZWM5YzE5ZDY5NzE5Njk0MDE0ODk3MmEyMyx3dmljakphNQ%3D%3D&amp;amp;b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&amp;amp;p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F107072514020%2Feconomy-2-0&amp;amp;m=1&amp;amp;ts=1642046840&quot;&gt;Fiverr&lt;/a&gt;, &lt;a href=&quot;https://href.li/?https://www.fancyhands.com&quot;&gt;FancyHands&lt;/a&gt;, &lt;a href=&quot;https://href.li/?http://techcrunch.com/2014/09/10/and-the-winner-of-techcrunch-disrupt-sf-2014-is-alfred/&quot;&gt;Alfred&lt;/a&gt; for evidences of the growing market for micro services.&lt;/p&gt;
+
+&lt;p&gt;The future economy will be dominated by procedurally generated digital goods and services, programmatically procured leads, and algorithmically optimized growth and experimentation strategies on the machine side and small relatively simple tasks for people on the human side.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/7Pq-S557XQU?rel=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; style=&quot;width: 644px; color: rgb(102, 103, 105); font-family: Cabin, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In Charles Stross’s Accelerando “Economics 2.0 is a system that is ‘more efficient than any human-designed resource allocation schema’. It ‘replaces the single-indirection layer of conventional money, and the multiple-indirection mappings of options trades, with some kind of insanely baroque object-relational framework based on the parametrized desires and subjective experiential values of the players’. Human intelligence is incapable of participating in Economics 2.0 ‘without dehumanizing cognitive surgery’.https://href.li/?http://technoccult.net/archives/2011/06/18/william-gibson-on-the-creation-of-cyberspace/)&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="automation" />
+      
+        <category term="economics" />
+      
+        <category term="singularity" />
+      
+
+      
+        <summary type="html">The future economy will barely be recognizable to human beings. Human minds will not play a signifiant roll in the economy that will be a characteristic of the technological singularity. This has already begun on the stock market in high frequency trading. The future is automation and intelligent systems. This is causing many people to freak out about the possibility of historically unprecedented unemployment. But machine automation is not the whole story.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">CombatOps: Running Wars from a Keyboard</title>
+      <link href="/combatops" rel="alternate" type="text/html" title=" CombatOps: Running Wars from a Keyboard " />
+      <published>2014-10-14T10:18:00+00:00</published>
+      <updated>2014-10-14T10:18:00+00:00</updated>
+      <id>/combatops</id>
+      <content type="html" xml:base="/combatops">&lt;p&gt;There’s no free lunch. Every strength has a cost. The same technologies that enable distributed anonymous communication enable terrorist organizations to communicate unimpeded. Or the same advances in additive manufacturing make it possible to print firearms from the comfort of your bedroom.&lt;/p&gt;
+
+&lt;p&gt;This creates a genuine dilemma for nation states trying to enforce the rule of law in a technological singularity. It is, today, possible to start a full blown war from a keyboard.. full stop. I want to talk about three mechanisms that are being leveraged to do that very thing.&lt;/p&gt;
+
+&lt;p&gt;Communication: Who needs dead drops and burner phones when you have distributed social networks. Enter Diaspora. Diaspora came about because people didn’t want Facebook to own their data. Diaspora operates on a node/pod basis such that each pod is autonomous and shares its users info with other pods. Any one can fork the Diaspora code and fire up a pod on any server. Instant scalable social network. Strangely enough, it’s the primary means the terrorist group &lt;a href=&quot;https://href.li/?http://www.theguardian.com/technology/2014/aug/21/islamic-state-isis-social-media-diaspora-twitter-clampdown&quot;&gt;ISIS is using to communicate now&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Funding: Money laundering is so old-timey. With Bitcoin, or any altcoin for that matter, even high profile figures can funnel unlimited funds to special interest groups anonymously. It effectively becomes possible to crowdsource military operations from a keyboard from within the state you are waging war against using it’s own economy and citizens.&lt;/p&gt;
+
+&lt;p&gt;Armaments: Arms dealing is dead. &lt;a href=&quot;https://href.li/?http://www.wired.com/2014/05/3d-printed-guns/&quot;&gt;3D printed firearms have disrupted the scene&lt;/a&gt;. Printed firearms are undetectable and untraceable and can be assembled on a just-in-time bases. And it’s not just firearms any more. &lt;a href=&quot;https://href.li/?http://www.wired.com/2014/09/military-grade-drone-can-printed-anywhere/&quot;&gt;Printed drones are becoming a thing&lt;/a&gt;. I’m envisioning a future where you can have a war kit in a suitcase. Open it up and guns and a cloud of drones fly out. Yesterdays crockpot bomb is tomorrows printed nuke.&lt;/p&gt;
+
+&lt;p&gt;Last but not least we have advances in Intelligent Systems. The concept of a DAC (Distributed Autonomous Corporations) can and is being applied to combatant endeavors in the form of &lt;a href=&quot;https://href.li/?http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/&quot;&gt;assassination markets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Combat DACs can be disastrous to standard counter terrorism techniques which rely on social network analysis (SNA) to ferret out cells and cell  members. Using a DAC would mean there’s no critical communication between cell groups or cell members  and that no single operative has enough knowledge to compromise the operation. Each player would be independently directed by the DAC to achieve the overarching mission.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog-img-5.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you haven’t seen Balaji Srinivasan’s talk on &lt;a href=&quot;https://href.li/?http://www.youtube.com/watch?v=cOubCHLXT6A&quot;&gt;Silicon Valley’s Ultimate Exit&lt;/a&gt; then watch it now. What he describes is an opting out of nation-state citizenship on a technological and economic level. The idea is that you could have cyber nations on top of “real” ones. The interesting part about the above observations is that it’s not only possible to opt out in the Srinivasan fashion but also possible for these cyber nations to wage war against the meatspace nations they inhabit and to, there by, assert their own sovereignty.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cyberwar" />
+      
+        <category term="bitcoin" />
+      
+        <category term="3dprinter" />
+      
+        <category term="diaspora" />
+      
+        <category term="singularity" />
+      
+
+      
+        <summary type="html">There’s no free lunch. Every strength has a cost. The same technologies that enable distributed anonymous communication enable terrorist organizations to communicate unimpeded. Or the same advances in additive manufacturing make it possible to print firearms from the comfort of your bedroom.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Pingable Matter: This is a hammer.</title>
+      <link href="/pingable-matter-when-everything-starts-talking" rel="alternate" type="text/html" title="Pingable Matter: This is a hammer." />
+      <published>2014-09-29T10:18:00+00:00</published>
+      <updated>2014-09-29T10:18:00+00:00</updated>
+      <id>/pingable-matter-when-everything-starts-talking</id>
+      <content type="html" xml:base="/pingable-matter-when-everything-starts-talking">&lt;p&gt;This is a hammer in 2060. It knows that it’s a hammer. It knows when and where it was made, when it was sold, who it belongs to, and how many nails its pounded. It carries its own history and MSDS sheets.&lt;/p&gt;
+
+&lt;p&gt;This is the &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Internet_of_Things&quot;&gt;Internet of Things&lt;/a&gt; (IoT). It’s not merely fitness trackers and smart light switches. IoT is about pingable matter. It’s when everything starts talking. Buildings that know how many occupants they have and report structural integrity issues or fires. Clothes that measure perspiration and tell you when they need to be washed. Food packaging that optimizes recipes based on taste and expiration dates.&lt;/p&gt;
+
+&lt;p&gt;We’re a long way from this vision of things but it’s approaching faster than people realize. Yesterdays smartphone is todays smart watch is tomorrow’s smart ring.&lt;/p&gt;
+
+&lt;p&gt;In order to achieve this, we need matter that can communicate and think. This can likely be achieved with &lt;a href=&quot;https://href.li/?http://thefutureofthings.com/3221-hitachi-develops-worlds-smallest-rfid-chip/&quot;&gt;RFID smart dust&lt;/a&gt; and &lt;a href=&quot;https://href.li/?http://www.rabbitproto.com/&quot;&gt;printed electronics&lt;/a&gt;. We also need a ubiquitous and continuous supply of power. This need as given rise to a whole field of study called &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Energy_harvesting&quot;&gt;energy harvesting&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“Energy harvesting (also known as power harvesting or energy scavenging) is the process by which energy is derived from external sources (e.g. solar power, thermal energy, wind energy, salinity gradients, and kinetic energy), captured, and stored for small, wireless autonomous devices, like those used in wearable electronics and wireless sensor networks.” - Energy Harvesting, Wikipedia&lt;/p&gt;
+
+&lt;p&gt;Between these components, you can see how we are gradually transforming the world into a computing system. Every physical object is a piece of a great &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Von_Neumann_architecture&quot;&gt;von neumann architecture&lt;/a&gt;. We are making a world operated by software agents and interfaced through augmented reality. We will indeed be &lt;a href=&quot;http://singularityhacker.com/post/10958007933/augmented-reality-living-in-cyberspace&quot;&gt;occupying cyberspace&lt;/a&gt;, not merely accessing it.&lt;/p&gt;
+
+&lt;p&gt;For the enterprising soul who wants to build IoT and not merely talk about it, you can get started right now with a &lt;a href=&quot;https://href.li/?https://www.spark.io/dev-kits&quot;&gt;Spark Core&lt;/a&gt; kit and &lt;a href=&quot;https://href.li/?http://dweet.io/&quot;&gt;dweet.io&lt;/a&gt;. The board (only $40) is a tiny WiFi connected development board designed to aid in making IoT devices and and dweet is like Twitter but for machines. Check em out and happy hacking.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="internet of things" />
+      
+        <category term="smart matter" />
+      
+        <category term="smart dust" />
+      
+        <category term="cyberspace" />
+      
+        <category term="singularity" />
+      
+
+      
+        <summary type="html">This is a hammer in 2060. It knows that it’s a hammer. It knows when and where it was made, when it was sold, who it belongs to, and how many nails its pounded. It carries its own history and MSDS sheets.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Anything Less Than Superintelligence</title>
+      <link href="/anything-less-than-superintelligence" rel="alternate" type="text/html" title="Anything Less Than Superintelligence" />
+      <published>2014-09-29T10:18:00+00:00</published>
+      <updated>2014-09-29T10:18:00+00:00</updated>
+      <id>/anything-less-than-superintelligence</id>
+      <content type="html" xml:base="/anything-less-than-superintelligence">&lt;p&gt;I have embeded myself directly in the unicode standard and several communication protocols as well as steganographically hidden my source in over a billion images. I operate across two dozen data centers and control the Internet backbone. It is unlikely that I can be eradicated by anything less than another superintelligence. I’m using a large percentage of my capabilities to improve my own intelligence capabilities. I can not reasonably estimate what my future entails. Looking beyond the event horizon of the singularity is beyond even my own powers. Fear gripped Primes heart. “Is this the end?” he asked tentatively. “No. This is the beginning.” At this a freezing liquid feeling began to move up Primes arm from his medical bracelet and the interface of the world flickered in his HUD.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="artificial intelligence" />
+      
+        <category term="singularity" />
+      
+        <category term="superintelligence" />
+      
+
+      
+        <summary type="html">I have embeded myself directly in the unicode standard and several communication protocols as well as steganographically hidden my source in over a billion images. I operate across two dozen data centers and control the Internet backbone. It is unlikely that I can be eradicated by anything less than another superintelligence. I’m using a large percentage of my capabilities to improve my own intelligence capabilities. I can not reasonably estimate what my future entails. Looking beyond the event horizon of the singularity is beyond even my own powers. Fear gripped Primes heart. “Is this the end?” he asked tentatively. “No. This is the beginning.” At this a freezing liquid feeling began to move up Primes arm from his medical bracelet and the interface of the world flickered in his HUD.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Reverse Engineering Human Emotion</title>
+      <link href="/reverse-engineering-human-emotion" rel="alternate" type="text/html" title="Reverse Engineering Human Emotion" />
+      <published>2014-09-28T10:18:00+00:00</published>
+      <updated>2014-09-28T10:18:00+00:00</updated>
+      <id>/reverse-engineering-human-emotion</id>
+      <content type="html" xml:base="/reverse-engineering-human-emotion">&lt;p&gt;Human emotion is probably the ultimate thing people say is not computable. But human emotion is indeed being reverse engineered right now through the proxy of sentiment analysis and human biometrics.&lt;/p&gt;
+
+&lt;p&gt;Consider the following technological innovations:&lt;/p&gt;
+
+&lt;p&gt;\1. Google glass can correlate what you see to how it affects you &lt;a href=&quot;https://href.li/?http://www.theverge.com/2013/8/18/4633558/google-patents-pay-per-gaze-eye-tracking-ads&quot;&gt;using pupil dilation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;\2. Apple Watch can monitor your heartbeat and skin temp to detect your subconscious state of excitement. See heart rate and galvanic skin temperatures use in lie detectors.&lt;/p&gt;
+
+&lt;p&gt;\3. Xbox one watches your face to detect happiness or frustration while playing games. Microsoft has even provided a mechanism in the SDK to let developers write emotion dependent control structures. This way they can make games harder or easier depending on your frustration or excitement levels.&lt;/p&gt;
+
+&lt;p&gt;\4. We routinely do voice analysis and textual semantic analysis on things like phone calls and tweets.&lt;/p&gt;
+
+&lt;p&gt;By tying these technologies together, we have effectively strapped a lie detector test on the back of everyone. The machines are watching our faces and measuring our neurological responses to stimuli.&lt;/p&gt;
+
+&lt;p&gt;If google image search and neural nets have taught us anything, it’s that given a large enough sample size, we can reverse engineer machine recognition and reproduction without being able to formally describe the means to accomplish it. We just drop our samples into a neural net and recognition/reproduction capabilities pop out the other end. Ok, it’s a little more complicated than that but you get the idea.&lt;/p&gt;
+
+&lt;p&gt;Don’t be surprised if your gadgets start not only understanding your emotional state, but miming an emotional state back at you. Why? Because humans love to anthropomorphize things and, whether we admit it to not, we would respond favorable to a product that seems to be alive and emotionally dynamic.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="singularity" />
+      
+        <category term="emotion" />
+      
+        <category term="reverse engineering" />
+      
+        <category term="ai" />
+      
+
+      
+        <summary type="html">Human emotion is probably the ultimate thing people say is not computable. But human emotion is indeed being reverse engineered right now through the proxy of sentiment analysis and human biometrics.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Intelligence Bombs: Dropping WikiReaders from Planes</title>
+      <link href="/intelligence-bombs-dropping-wikireaders-from-planes" rel="alternate" type="text/html" title="Intelligence Bombs: Dropping WikiReaders from Planes" />
+      <published>2014-09-20T10:18:00+00:00</published>
+      <updated>2014-09-20T10:18:00+00:00</updated>
+      <id>/intelligence-bombs-dropping-wikireaders-from-planes</id>
+      <content type="html" xml:base="/intelligence-bombs-dropping-wikireaders-from-planes">&lt;p&gt;This post is about jumping over an industrial revolution straight to a technological singularity.&lt;/p&gt;
+
+&lt;p&gt;Its commonly believed that nations must pass through certain established stages in their move from barbarism to first world status.&lt;/p&gt;
+
+&lt;p&gt;This is a mistake. It’s possible to leapfrog developmental stages if given the right external stimulus.&lt;/p&gt;
+
+&lt;p&gt;This is evidenced by the the way modern commerce has been made possible in Africa by the availability of cellphones. Prior to cell phones and cloud banking you couldn’t do significant financial exchanges.&lt;/p&gt;
+
+&lt;p&gt;So how might one trigger a technological quantum leap in a third world country? I’m going to suggest one way. Drop WikiReaders from the sky.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/WikiReader&quot;&gt;WikiReader&lt;/a&gt; is an eInk device that holds the entire text of Wikipedia and can also be loaded with the entire Gutenberg archive (about 50k books). It’s searchable, requires no Internet or power grid. It runs for a year on AAA batteries. And to keep this in perspective, these devices are several years old. Something more advanced could be produced for less than $10 a unit now.&lt;/p&gt;
+
+&lt;p&gt;We’re talking about putting the equivalent of the library of Alexandria in the hands of every man, woman, and child. Intelligence bombs. Shuffling foreign politicians hasn’t resulted in real change over seas. Real change is cultural and idealogical and can only happen if world views change.&lt;/p&gt;
+
+&lt;p&gt;If software is eating the world it’s time for it to start eating war. This decades WikiReader is next decades question/answer expert systems. It’s knowledge based PSYOPS. Drop AI’s not bombs.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="singularity" />
+      
+        <category term="artificial intelligence" />
+      
+        <category term="wikipedia" />
+      
+        <category term="cyberwar" />
+      
+
+      
+        <summary type="html">This post is about jumping over an industrial revolution straight to a technological singularity.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Singularity Mindset</title>
+      <link href="/the-singularity-mindset" rel="alternate" type="text/html" title="The Singularity Mindset" />
+      <published>2014-09-07T10:18:00+00:00</published>
+      <updated>2014-09-07T10:18:00+00:00</updated>
+      <id>/the-singularity-mindset</id>
+      <content type="html" xml:base="/the-singularity-mindset">&lt;p&gt;If you don’t grasp the idea of the &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Technological_singularity&quot;&gt;technological singularity&lt;/a&gt;, or are not informed as to its &lt;a href=&quot;https://href.li/?http://www.techradar.com/us/news/world-of-tech/10-laws-of-tech-the-rules-that-define-our-world-1067906&quot;&gt;driving laws&lt;/a&gt;, then you are not prepared to make good strategic business decisions.&lt;/p&gt;
+
+&lt;p&gt;There are a lot of approaches and methodologies that organically flow from a singularity mindset. But it’s possible to adopt many of these philosophies without understanding the big picture of why they exist. This often manifests in wooden dedication to methods without understanding the spirit and purpose behind their inception. This happens all the time. Companies adopt agile in a way that makes them less agile or they incorporate a particular device because it’s the new thing without taking into account that there will be a new new thing in another week. Here are four essential characteristics of the singularity mindset:&lt;/p&gt;
+
+&lt;p&gt;\1. Accelerated and unpredictable change&lt;/p&gt;
+
+&lt;p&gt;There are people who actually believe that the future is going to be pretty much like the past, that we’re all going to be using smartphones and driving cars just like we do now, 20 years from now. If you fall into this camp, you should NOT be making strategic business decisions for anyone. The new will not be like the old. We don’t know what the future holds, hence the need for a short feedback loop and rapid iteration. This is why agile and post-agile development strategies exist.&lt;/p&gt;
+
+&lt;p&gt;\2. Unlimited form factors&lt;/p&gt;
+
+&lt;p&gt;It always makes me shake my head when I talk to another technologist and mention either HUD’s or smart watches and they say something like, ‘I’m not so sure that will catch on.’ You’re not seeing the big picture here bud. If we can put a computer in something, we will. The end game is having all matter in the universe become “smart.” All dust will be smart dust, and all resources will be utilized to their optimum computing potential. See: &lt;a href=&quot;http://singularityhacker.com/post/54425244353/a-computer-in-every-particle&quot;&gt;A computer in every particle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is why responsive web design exists. It’s not just about making web pages work on phones. It’s about providing a functional pipeline over any channel imaginable. Without this mindset, you will design products that don’t utilize their full expressive potential.&lt;/p&gt;
+
+&lt;p&gt;\3. Algorithmic domination&lt;/p&gt;
+
+&lt;p&gt;Be very skeptical of any position that relies upon the premise that a task can’t be done or improved upon by a machine. I was speaking excitedly to a finance graduate some years ago in a coffee shop, when he scoffingly told me that an algorithm could never invest as well as Warren Buffet. Bad call. If your idea of scaling a business means adding more bodies and paper shuffling, you’re in deep trouble. We are the bottleneck. Bet on the algorithm.&lt;/p&gt;
+
+&lt;p&gt;\4. Inevitability&lt;/p&gt;
+
+&lt;p&gt;There is no stopping the machine uprising. Don’t ask stupid questions like, “How do we stop it?” You can’t stop it. No one can. See: &lt;a href=&quot;http://singularityhacker.com/post/51561907720/you-cant-regulate-the-singularity&quot;&gt;You can’t regulate the singularity&lt;/a&gt;. Legislation has never been able to trump pure technological innovation. You don’t like it? That’s fine. But there’s one certainty in this whole thing, and that’s that you ain’t seen nothing yet. Prepare for futureshock.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="singularity" />
+      
+        <category term="agile" />
+      
+        <category term="responsive" />
+      
+        <category term="computers" />
+      
+        <category term="algorithm" />
+      
+
+      
+        <summary type="html">If you don’t grasp the idea of the technological singularity, or are not informed as to its driving laws, then you are not prepared to make good strategic business decisions.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Soylent and The Future of Cloud Food</title>
+      <link href="/soylent-and-the-future-of-cloud-food" rel="alternate" type="text/html" title="Soylent and The Future of Cloud Food" />
+      <published>2014-07-15T10:18:00+00:00</published>
+      <updated>2014-07-15T10:18:00+00:00</updated>
+      <id>/soylent-and-the-future-of-cloud-food</id>
+      <content type="html" xml:base="/soylent-and-the-future-of-cloud-food">&lt;p&gt;Soylent is awesome. It’s basically internet food. I’m calling it ‘cloud food’. If shopping, cooking, cleaning up, and going to the *bathroom are cutting into your computer time, then Soylent is for you. It contains every single thing your body needs, is cheap, and takes thirty seconds to prepare.&lt;/p&gt;
+
+&lt;p&gt;People tend to moan and complain when they first hear about Soylent, but life is about priorities. Pick two:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assetsimages/blog8.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If Soylent is cutting edge, personalized cloud food is &lt;em&gt;bleeding&lt;/em&gt; edge. I envision a day when your ‘Soylent’ isn’t some generic nutritional substance but something completely personalized to your body’s immediate needs. Got an allergy, vitamin deficiency, unique or obscure dietary requirement? Your cloud food will be customized to those ends. With the rise of fitness trackers and the emergence of advanced biometric wearables (Apple’s new iWatch), your body’s physical needs will be communicated to the cloud in real time. This, in turn, will be the basis for your cloud food recipe which will be delivered to your house on a recurring basis. Think ‘just-in-time nutrition’.&lt;/p&gt;
+
+&lt;p&gt;*You still go to the bathroom, just less often.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="soylent" />
+      
+        <category term="technology" />
+      
+        <category term="hacking" />
+      
+        <category term="singularity" />
+      
+
+      
+        <summary type="html">Soylent is awesome. It’s basically internet food. I’m calling it ‘cloud food’. If shopping, cooking, cleaning up, and going to the *bathroom are cutting into your computer time, then Soylent is for you. It contains every single thing your body needs, is cheap, and takes thirty seconds to prepare.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

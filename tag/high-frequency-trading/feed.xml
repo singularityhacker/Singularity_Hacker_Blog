@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/high-frequency-trading/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/high-frequency-trading/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Previous Attempts To Regulate Automation</title>
+      <link href="/previous-attempts-to-regulate-automation" rel="alternate" type="text/html" title="Previous Attempts To Regulate Automation" />
+      <published>2015-04-18T10:18:00+00:00</published>
+      <updated>2015-04-18T10:18:00+00:00</updated>
+      <id>/previous-attempts-to-regulate-automation</id>
+      <content type="html" xml:base="/previous-attempts-to-regulate-automation">&lt;p&gt;In 1987 the world had its first electronic stock exchange, the NASDAQ terminal. Traders could now type orders directly into a computer.&lt;/p&gt;
+
+&lt;p&gt;A trader named Thomas Peterffy didn’t want to type in the orders so he and his engineers hacked into the NASDAQ terminal such that it could be wired directly to their own computer, which traded automatically based on algorithms.&lt;/p&gt;
+
+&lt;p&gt;A senior NASDAQ official saw Peterffy’s setup and said Peterffy was breaking the rules: All orders had to be entered through the keyboard. He gave Petterfy’s group one week to fix the problem.&lt;/p&gt;
+
+&lt;p&gt;Peterffy and his engineers came up with a solution. They built a mechanical robot with rubber fingers that typed entries into the keyboard. It’s reported that the inspector stormed out of the room upon seeing the hulking machine but it technically satisfied the NASDAQ rules. Traders said that on active trading days, the robot typed so fast that it sounded like a machine gun.&lt;/p&gt;
+
+&lt;p&gt;Peterffy became the father of digital trading. He would write code in his head during the trading day and then apply his ideas to computerized trading models after hours.&lt;/p&gt;
+
+&lt;p&gt;The rise of high-frequency trading in the stock market from January 2007 through January 2012.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="high frequency trading" />
+      
+        <category term="singularity" />
+      
+        <category term="automation" />
+      
+
+      
+        <summary type="html">In 1987 the world had its first electronic stock exchange, the NASDAQ terminal. Traders could now type orders directly into a computer.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

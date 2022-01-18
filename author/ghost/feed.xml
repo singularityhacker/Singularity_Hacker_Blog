@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/author/ghost/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/author/ghost/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Front-Running Defi Regulation</title>
+      <link href="/front-running-defi-regulation" rel="alternate" type="text/html" title="Front-Running Defi Regulation" />
+      <published>2021-04-19T10:00:00+00:00</published>
+      <updated>2021-04-19T10:00:00+00:00</updated>
+      <id>/front-running-defi-regulation</id>
+      <content type="html" xml:base="/front-running-defi-regulation">&lt;p&gt;Last week was big for crypto. The Coinbase IPO happened and the whole world seemed to wake up in recognition of crypto as an asset class. While this is a major step in the legitimization of the space, some even calling it crypto’s ’&lt;a href=&quot;https://href.li/?https://cointelegraph.com/news/coinbase-listing-is-crypto-s-netscape-moment-says-mike-novogratz&quot;&gt;Netscape moment&lt;/a&gt;’, I want to take the opportunity to highlight the dangers of crypto going mainstream.&lt;/p&gt;
+
+&lt;p&gt;The United States is woefully behind in the crypto economy in every conceivable measure. For Bitcoin PoW blockchain, the U.S. represents a mere &lt;a href=&quot;https://href.li/?https://www.statista.com/statistics/1200477/bitcoin-mining-by-country/&quot;&gt;7%&lt;/a&gt; of the global hash rate while China represents approx. 65%. This has lead thinkers like &lt;a href=&quot;https://href.li/?https://www.bloomberg.com/news/articles/2021-04-07/peter-thiel-calls-bitcoin-a-chinese-financial-weapon-at-virtual-roundtable&quot;&gt;Peter Thiel&lt;/a&gt; to suggest that Bitcoin could in fact be a Chinese financial weapon against the U.S. and to unambiguously state that it specifically threatens the dollar.&lt;/p&gt;
+
+&lt;p&gt;Secondly, the U.S. government is frighteningly slow to even understand what crypto is or what it has produced in decentralized finance (Defi). This is clearly seen in the recent Bankless &lt;a href=&quot;https://href.li/?https://www.youtube.com/watch?v=gd84ALWwpRQ&amp;amp;ab_channel=Bankless&quot;&gt;interview&lt;/a&gt; with SEC commission Hester Peirce when she talks about Defi barely being on the radar of her fellow commissioners and that they are just now waking up to Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;Lastly, the U.S. is &lt;a href=&quot;https://href.li/?https://www.marketwatch.com/story/u-s-is-behind-the-curve-on-crypto-regulations-says-sec-commissioner-peirce-11617824160&quot;&gt;behind the curve on crypto regulation&lt;/a&gt;. If you spent any time in the space you will be familiar with popups at every turn telling you that U.S. customers are not able to use this exchange or Defi product due to regulatory restrictions.&lt;/p&gt;
+
+&lt;p&gt;“BitMEX, Bybit, FTX and Binance are four of the top coveted exchanges that ban U.S. persons from their platform, as stated in their terms and conditions… Kraken even has a separate futures trading platform, which oddly, U.S. customers are barred from using.” - &lt;a href=&quot;https://href.li/?https://www.forbes.com/sites/benjaminpirus/2020/09/30/crypto-exchanges-barring-us-citizens-is-heartbreaking-and-frustrating/?sh=41b452ef7c97&quot;&gt;Crypto Exchanges Barring US Citizens Is Heartbreaking And Frustrating&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Given this deficit in understanding and an anticipated growing sense of diminished control, I fear any major market downswing could trigger sweeping regulation. Many people are predicting crypto regulation on the horizon regardless of any downturn. The World Economic Forum’s head of blockchain and digital assets, Sheila Warren, just told Bloomberg that a “dramatic” round of regulation was about to befall Bitcoin and the wider cryptocurrency space.&lt;/p&gt;
+
+&lt;p&gt;“We’re going to see another round of pretty dramatic attempts at regulating this space. As there’s more and more activity in these spaces there’s more and more demand signal for regulators to get engaged and involved.” - &lt;a href=&quot;https://href.li/?https://cointelegraph.com/news/there-will-be-drama-warns-wef-expert-on-bitcoin-regulation&quot;&gt;Cointelegraph&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The writing on the wall seems to be exceedingly clear and it indicates that &lt;a href=&quot;https://href.li/?https://modernconsensus.com/regulation/the-feds-are-coming-for-defi/&quot;&gt;the feds are coming for Defi&lt;/a&gt;. Combined with the US having printed 40% of its money supply just last year potentially conducting &lt;a href=&quot;https://href.li/?https://www.youtube.com/watch?v=dPW1tbMOAA4&amp;amp;ab_channel=MHFIN&quot;&gt;the scariest financial experiment in history&lt;/a&gt;, Defi has the potential to be an enticing scapegoat to any undesirable economic consequences. The heavy-handed regulation will be presented as being for our own good and motivated to “protect” citizens.&lt;/p&gt;
+
+&lt;p&gt;This is what people need to fully understand and take in is that Defi is not merely an augmentation to traditional finance, it’s a repudiation of it. It’s a Wikipedia to Britannica, an Amazon to Borders, and a Netflix to Blockbuster.&lt;/p&gt;
+
+&lt;p&gt;How does knowing any of this help you? As a blockchain developer/user, you can prioritize the following protocol characteristics to stay ahead of the idiocracy soon to flow from governments desperate to maintain control of your economic life:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Availability&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;If the front end of your application is hosted on AWS  and your domain is registered with GoDaddy then your decentralized and censorship-resistant submarine might as well have a screen door on it. To guarantee availability to end-users means employing censorship-resistant technologies like IPFS and ENS.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Governance&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Make no mistake about it. when the regulatory guns come out, they will be squarely targeted at At those who are building and managing these products, and if you are in a position where you can update protocols then you will be legally compelled to do so. A trustless system is not trustless if the founders have to be trusted to not update the protocol at the behest of another. This means on-chain governance.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Anonymity&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Even assuming that there is no attack vector at the protocol level, this does not mean that the blockchain creators are safe from attack by governments. If their identity is known, they are fully exposed to the threat of personal liability. This could mean their personal assets are confiscated or they’re held criminally liable for building and releasing the product. Just ask &lt;a href=&quot;https://href.li/?https://www.coindesk.com/former-bitmex-ceo-hayes-surrenders-to-face-us-charges-report&quot;&gt;Arthur Hayes&lt;/a&gt;. I believe anonymity will be shown to be as important for founders as it has been emphasized as a feature for users.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;PoS Consensus&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;We need to move away from Proof of Work (PoW) to Proof of Stake (PoS) as soon as possible and it’s not just about scalability and speed of transactions. Physical mining represents a very real physical vulnerability because governments can dramatically lower the cost of a 51% attack simply by seizing control of the mining physical infrastructure required to drive PoW. That dramatically changes in the move to PoS because there is no physical infrastructure per se. What’s more, it also increases anonymity by removing miner IP addresses from the equation and provides greater resiliency in the face of &lt;a href=&quot;https://href.li/?https://cointelegraph.com/news/did-a-massive-chinese-power-outage-cause-bitcoin-s-crash-down-to-50k&quot;&gt;power loss&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Building the decentralized trustless system requires a constant obsession with thinking about how users can be attacked and exploited. The same passion that exists behind decentralization will exist on the side of governments who wish to control and exploit it for power. This conflict is unprecedented for several reasons. Firstly, the servers running the code do not reside in any physical country and, secondly, all parties involved are involved voluntarily so it can’t be construed as an issue of theft or exploitation. These reasons alone will inevitably cause people to rightly question what grounds a government has to control this space but, I’m convinced, that will not deter them from claiming that right. The only way to front-run the impending clash of worldviews is with the same principles that have driven this entire movement, that being an absolute insistence on unmitigated trustlessness and decentralization.&lt;/p&gt;
+
+&lt;p&gt;One of the very interesting projects I see taking the above characteristics extremely seriously is &lt;a href=&quot;https://href.li/?https://www.dfohub.com/&quot;&gt;DFOhub&lt;/a&gt;. They advocate the use of decentralized flexible organizations (DFOs) and speak of &lt;a href=&quot;https://href.li/?https://www.youtube.com/watch?v=YU_wD_Cnvz4&amp;amp;ab_channel=DFOhub&quot;&gt;startups without founders&lt;/a&gt;. I personally feel that they’re extremely ahead of the curve and that time will show the great value of the thinkers and projects exploring and expanding the boundaries of this space.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blockchain" />
+      
+        <category term="defi" />
+      
+        <category term="ethereum" />
+      
+        <category term="crypto" />
+      
+        <category term="regulatio" />
+      
+        <category term="bitcoin" />
+      
+
+      
+        <summary type="html">Last week was big for crypto. The Coinbase IPO happened and the whole world seemed to wake up in recognition of crypto as an asset class. While this is a major step in the legitimization of the space, some even calling it crypto’s ’Netscape moment’, I want to take the opportunity to highlight the dangers of crypto going mainstream.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Defi Revolution is Economy 3.0</title>
+      <link href="/the-defi-revolution-is-economy-30" rel="alternate" type="text/html" title="The Defi Revolution is Economy 3.0" />
+      <published>2021-04-14T10:18:00+00:00</published>
+      <updated>2021-04-14T10:18:00+00:00</updated>
+      <id>/the-defi-revolution-is-economy-30</id>
+      <content type="html" xml:base="/the-defi-revolution-is-economy-30">&lt;p&gt;There is a global revolution happening right now and it’s happening so fast that unless you are explicitly told about it, it will very likely remain entirely invisible to you. The only inklings you may have that something is happening is headlines mentioning Bitcoin and another COVID-19 stimulus package. This revolution didn’t start this year or even last but it has accelerated so dramatically the past three months that it is clear that we have approached a tipping point. This global revolution that I speak of concerns the very nature and mechanics of the worldwide economy. This revolution is being fueled by digital assets, programmable money, and distributed autonomous organizations. What we are witnessing unfold before our very eyes is nothing less than the complete reimagining of human organization, industry, and trade. What we are witnessing is the birth of &lt;a href=&quot;https://href.li/?https://wiki.p2pfoundation.net/Economy_3.0&quot;&gt;Economy 3.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Convergence&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At the macro scale, this revolution was inevitable if the trend line of human industry and innovation was to continue along the line it was traversing. Old companies like Harley-Davidson, Prada, and Whirlpool took almost a century to reach the 1 billion dollar valuation. More modern companies like Mattel, Nike, and Starbucks did it in a quarter of the time. Then we saw the emergence of internet companies like Evernote and PayPal do that in less than ten years. As the Internet got more established and the network effect took a stronger hold, purely digital companies like Pinterest, Instagram, and YouTube reached billion-dollar valuations in less than 2 years. Then Jet.com, a shopping website, did that in four months because of its unique pricing algorithm. Now, with the advent of blockchain, cryptocurrency, and tokenized organizations we are seeing companies reach unimaginable valuations on the scale of hours, minutes, and seconds.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bancor: $153 million in 3 hours&lt;/li&gt;
+  &lt;li&gt;Aragon: $25 million in 15 minutes&lt;/li&gt;
+  &lt;li&gt;Gnosis: $12 million in 10 minutes&lt;/li&gt;
+  &lt;li&gt;SingularityNet: $36 million in 60 seconds&lt;/li&gt;
+  &lt;li&gt;Brave: $35 million raised in 30 seconds&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;See: Fastest &lt;a href=&quot;https://href.li/?https://fleximize.com/unicorns/&quot;&gt;IPO’s&lt;/a&gt; and &lt;a href=&quot;https://href.li/?https://insights.invyo.io/europe/mapping/mapping-the-top-10-fastest-icos-of-all-time/&quot;&gt;ICO’s&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Genesis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s take a few steps back and see how we got here because if you understand the pattern, none of what is happening is a surprise. As soon as anything becomes digital and programmatic, will begin to accelerate in its development at exponential speeds. Ray Kurzweil has talked about and documented this at length. Seen is this way, the genesis of this economic digital metamorphosis started in the late ‘80s.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As soon as anything becomes digital and programmatic, will begin to accelerate in its development at exponential speeds.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In 1987 the world had its first electronic stock exchange, the NASDAQ terminal. Traders could now type orders directly into a computer. A trader named Thomas Peterffy didn’t want to type in the orders so he and his engineers hacked into the NASDAQ terminal such that it could be wired directly to their own computer, which traded automatically based on algorithms. A senior NASDAQ official saw Peterffy’s setup and said Peterffy was breaking the rules: All orders had to be entered through the keyboard. He gave Petterfy’s group one week to fix the problem.&lt;/p&gt;
+
+&lt;p&gt;Peterffy and his engineers came up with a solution. They built a mechanical robot with rubber fingers that typed entries into the keyboard. It’s reported that the inspector stormed out of the room upon seeing the hulking machine but it technically satisfied the NASDAQ rules. Traders said that on active trading days, the robot typed so fast that it sounded like a machine gun. Peterffy became the father of digital trading and this in turn would pave the way for algorithmic and high-frequency trading. He would write code in his head during the trading day and then apply his ideas to computerized trading models after hours. See: &lt;a href=&quot;https://href.li/?https://www.npr.org/2015/04/23/401781306/we-built-a-robot-that-types-the-man-behind-computerized-stock-trading&quot;&gt;The Man Behind Computerized Stock Trading&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In the following years, the stock market would become dominated by algorithmic trading and the majority of all currency would have its existence in digital form. But the key differentiator here that cannot be missed is this. What was being traded were records of ownership, not the actual assets themselves. But all that would change in the next advent of this saga in 2009 with the invention of the world’s first digitally scarce resource, Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Digital Currency&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The fundamental innovation that occurred with the invention of Bitcoin was the invention of digital scarcity. The very notion that I could have something digital and send some of it to you suck that my supply is reduced is so entirely novel and unthinkable that the vast majority of the world doesn’t even realize that such a thing exists. In fact, the world is only in the past few months waking up to the reality of cryptocurrency while the actual crypto ecosystem has already moved far beyond that.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I think the internet will be one of the major forces for reducing the role of government. The one thing that’s missing, but that will soon be developed, is a reliable e-cash. A method whereby on the internet you can transfer funds from A to B, without A knowing b or B knowing A.” — Milton Friedman, Nobel Memorial Prize in Economic Sciences&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the past three months, politicians, big tech, banks, credit cards, Penn stock exchanges are feverishly jumping on the bandwagon with the Model T of cryptocurrency, Bitcoin. All the publicity and institutional investments have driven the price of Bitcoin up but it’s nothing compared to what’s happening at the bleeding edge of the 3.0 Economy. And this is nowhere near the height of where things are going. It’s just getting started and the difference between this revolution and the revolution that was the internet is that this one can’t be controlled.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In terms of adoption, Bitcoin has roughly the same users as the internet had in 1997. The big ones growing faster. Next four years on the current path will bring Bitcoin users to 1b people, that’s the equivalent of 2005 for the Internet” — &lt;a href=&quot;https://twitter.com/woonomic/status/1356310219215699968&quot;&gt;Willy Woo, Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Decentralized Finance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Some very smart people realized that if you could have a decentralized currency, why not decentralized programs, and why not use those programs to move cryptocurrency around according to programmable rules called smart contracts? And why not create all the same instruments and entities that exist in the classical world of finance within these smart contracts? What I just described is what’s happening in Decentralized Finance (Defi) and it has grown to 40B just during the pandemic and it shows no signs of slowing. In fact, a person can barely keep track of the proliferation of new competing and complementary Defi protocols and instruments. Far from losing steam, Ethereum, the most active of the blockchains being used for Defi is readying an update that will dramatically reduce transaction fees thus inviting even more participants in the ecosystem.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A new wave of financial innovation is upon us. Decentralized Finance (DeFi) provides the solid foundation for new financial services that are so powerful and advantageous that we will soon look back on them and question how we ever operated without them. — &lt;a href=&quot;https://href.li/?https://www.nasdaq.com/articles/decentralized-finance-defi%3A-an-emerging-giant-2021-01-15&quot;&gt;Nasdaq&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Governments will surely flex their muscles and attempt to regulate the 3.0 Economy, but the question is whether they will outpace the technical development of this ecosystem. The UK government has said that it’s going to release rules for how cryptocurrencies will be governed in 2022 but that might as well be 20 years in Defi time. Technologies like decentralized exchanges, the interplanetary file system, and the Ethereum naming system are being used to rebuild the internet in decentralized and censorship-resistant ways. There is a fundamental shift in power happening and this shift can’t be stopped or mitigated with new laws or physical weapons. The information economy is broken free from the nation-state economy and the genie can’t be put back in the bottle. The efforts of those who opposed this revolution will be found to be as futile as a child impotently stamping its foot in protest. Those who recognize this movement for what it is and take the time to educate themselves and become active participants will find themselves the digital wizards of a new world. Atlas is shrugging and the ancient and lumbering nation-states are on track to being no more or less relevant than any other player in a free market.&lt;/p&gt;
+
+&lt;p&gt;Read: &lt;a href=&quot;https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00AK9IXXM%2Fref%3Ddp-kindle-redirect%3F_encoding%3DUTF8%26btkr%3D1&amp;amp;t=ZmU3OTg3ZDE5YzFkZDUzN2YxZjJiNjI3MjE1MTYwNTNhY2NlY2NiZSxtcFFPckh6NA%3D%3D&amp;amp;b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&amp;amp;p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F643958210820259840%2Fthe-defi-revolution-is-economy-30&amp;amp;m=1&amp;amp;ts=1642040903&quot;&gt;The Sovereign Individual: Mastering the Transition to the Information Age&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">There is a global revolution happening right now and it’s happening so fast that unless you are explicitly told about it, it will very likely remain entirely invisible to you. The only inklings you may have that something is happening is headlines mentioning Bitcoin and another COVID-19 stimulus package. This revolution didn’t start this year or even last but it has accelerated so dramatically the past three months that it is clear that we have approached a tipping point. This global revolution that I speak of concerns the very nature and mechanics of the worldwide economy. This revolution is being fueled by digital assets, programmable money, and distributed autonomous organizations. What we are witnessing unfold before our very eyes is nothing less than the complete reimagining of human organization, industry, and trade. What we are witnessing is the birth of Economy 3.0.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Is Blockchain a Fad?</title>
+      <link href="/is-blockchain-a-fad" rel="alternate" type="text/html" title="Is Blockchain a Fad?" />
+      <published>2021-03-20T10:18:00+00:00</published>
+      <updated>2021-03-20T10:18:00+00:00</updated>
+      <id>/is-blockchain-a-fad</id>
+      <content type="html" xml:base="/is-blockchain-a-fad">&lt;p&gt;Blockchain is the technology on which Bitcoin and all other cryptocurrencies are built. Much of the talk around this technology revolves around speculation and making fast money. Because of this many scams have been pulled and this has, in turn, led many people to discount the entire technology as unnecessary and as even a scam itself. In fact, my favorite place for tech news for over a decade has been Hacker News but you will find nearly all the comments on all articles related to blockchain technology completely dismissive of it. It was pretty shocking to me when I first saw it because the level of disdain for anything related to blockchain technology on Hacker News is nearly absolute. There aren’t even metered assessments such as Blockchain has a specific and limited use case but rather the opinions are that the technology has zero use and has zero value in any context. One can’t help but give pause and really wonder if you’re being deceived when the likes of Bill Gates and Warren Buffett dismiss the entire technology as worthless as well.&lt;/p&gt;
+
+&lt;p&gt;Think twice before you listen to advice from people who don’t know the difference between Bitcoin and Blockchain. You might as well take technology advice from someone who doesn’t know the difference between Facebook and the World Wide Web. For as many naysayers, there are thought leaders who pronounce Blockchain as his greatest discovery of man since fire, the wheel, and the internet. Steve Wozniak for one compares it to the early days of Apple when they were still in the garage. The very fact that these disagreements and controversies exist points to the reality of how early we are in the development and application of this technology. The polarization is so deep right now you could almost say that the mental divide that existed between the pre-internet mindsets and the pioneers of the internet now exists between traditional internet thinkers and decentralized Blockchain thinkers. Time will show you who the truly prescient ones were. Consider the following analogy that illustrates where I think we are with this technology.&lt;/p&gt;
+
+&lt;p&gt;Imagine we’re in the early nineteen hundreds and there are only 100,000 cars in the country. By 1908 there will be somewhere around 200,000 vehicles registered in the United States and around 500 companies busily making more types of cars. Ford leads the pack with the Model T, Buick is right behind them, and General Motors has just been founded and will be creating even more models. There are no shortage of critics. The president of a Michigan savings bank advised Horace Rackham, Henry Ford’s lawyer, not to invest in his client’s company, telling him, “The horse is here to stay, but the automobile is only a novelty – a fad.” The Washington Post stated that “Local horse dealers do not look upon the advent of the automobile with any degree of seriousness. It is true that society has taken up the automobile, but the dealers consider it nothing but a fad, which will not have as much permanency as the bicycle. They argue that the noise of the engine or motor will soon wear the tender nerves of the society belle or swell to a frazzle and that the odor of the locomobile is not at all agreeable to the sensitive nostrils.” - &lt;em&gt;The Washington Post&lt;/em&gt; from May 14th, 1900&lt;/p&gt;
+
+&lt;p&gt;Consider the following parallels. Blockchain is to the crypto ecosystem what the internal combustion engine was to the automobile ecosystem. Bitcoin is the Model T of this new burgeoning ecosystem. It has all the brand recognition and it’s come to be almost entirely identified with the automobile itself. But there are many other types of automobiles on the road and many more will come that bring their own unique properties, strengths, and weaknesses. There are numerous other cryptocurrencies and Blockchains that exist besides Bitcoin. There were many unorthodox car designs in the early days and even foolish applications of the internal combustion engine but none of these discounted the entire revolution in transportation that was transpiring.&lt;/p&gt;
+
+&lt;p&gt;Just like the analogy with these cars, there doesn’t need to be one car to rule them all or a “winner”. Each protocol can have its own unique properties suited to a specific use case. One doesn’t even need to know which particular car is going to do well or not in the market. Just knowing that the world is going to be overtaken by cars as a product category puts you in an extremely advantageous position. Certainly better than the horse traders who could see nothing but another fad. A person with this knowledge can invest in cars at the ecosystem level. As I’ve stated elsewhere, this technology has produced digital scarcity, something inconceivable prior to the Bitcoin whitepaper and we are in the very early stages of recognizing its impact and potential applications.&lt;/p&gt;
+
+&lt;p&gt;There are two methods of analysis that are used when analyzing the value of any asset security. Technical analysis and fundamental analysis. Technical analysis has to do with understanding charts and the fluctuating price of something and trying to infer certain patterns to determine whether the price will go up or down. This is what a lot of people think of when they think of cryptocurrency and Blockchain. This involves studying charts and buying tokens when they’re cheap and waiting for them to go up in value and making lots of money. But fundamental analysis has to do with the intrinsic utility of the thing being studied. That is, regardless of how the price is fluctuating or what the current demand is, how useful is this thing? This is what separates the traders and investors. So drawing upon the previous analogy with the history of automobiles, I asked myself, what is the fundamental utility of programmable digital scarcity? This technology not only has the power to displace everything we’ve known concerning financial systems but it also has the potential to completely rewrite the internet and all digital coordination as we have known it thus far.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog-img.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blockchain" />
+      
+        <category term="bitcoin" />
+      
+        <category term="cryptocurrency" />
+      
+
+      
+        <summary type="html">Blockchain is the technology on which Bitcoin and all other cryptocurrencies are built. Much of the talk around this technology revolves around speculation and making fast money. Because of this many scams have been pulled and this has, in turn, led many people to discount the entire technology as unnecessary and as even a scam itself. In fact, my favorite place for tech news for over a decade has been Hacker News but you will find nearly all the comments on all articles related to blockchain technology completely dismissive of it. It was pretty shocking to me when I first saw it because the level of disdain for anything related to blockchain technology on Hacker News is nearly absolute. There aren’t even metered assessments such as Blockchain has a specific and limited use case but rather the opinions are that the technology has zero use and has zero value in any context. One can’t help but give pause and really wonder if you’re being deceived when the likes of Bill Gates and Warren Buffett dismiss the entire technology as worthless as well.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Out to Sea</title>
+      <link href="/7-power-laws-of-the-technological-singularity" rel="alternate" type="text/html" title="Out to Sea" />
+      <published>2020-11-20T10:18:00+00:00</published>
+      <updated>2020-11-20T10:18:00+00:00</updated>
+      <id>/7-power-laws-of-the-technological-singularity</id>
+      <content type="html" xml:base="/7-power-laws-of-the-technological-singularity">&lt;p&gt;When people talk about the technological singularity they usually do so exclusively in the context of Moore’s Law. But there are several Moore’s Law-like laws at work in the world and each of them is equally baffling. I’m referring to this list of trends as “power laws” because of the nature of their incredible rate of growth and because they independently work as pistons driving the engine of the singularity. A few things to note about these power laws. Firstly they are just observations. There are no, known, deeper physical principles in the universe that would lead us to believe that they must hold true. Secondly, we’ve observed these trends long enough to warren their recognition as power laws and there is no evidence or signs of their stagnating. We’ll start with the most famous and well-known power law and work our way through the others.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-moores-law&quot;&gt;&lt;strong&gt;1. Moore’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Moore’s Law states that transistors on a chip double about every two years and that the cost of that doubling halves. This is a double-edged sword. It means that the next model computer will be way faster than the previous but it also means that the value of your existing computer is dropping rapidly. The end of Moore’s Law has been proclaimed for a long time but there seems to be &lt;a href=&quot;https://href.li/?https://medium.com/predict/moores-law-is-alive-and-well-eaa49a450188&quot;&gt;no end to its progression&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As we reach the physical limits of transistor sizes, entirely new hardware architectures are developed that sustain the progression. Things like 3D chips, specialized chips, and non-silicon based chips like photonics, spintronics, and neuromorphic chips are being developed and will ensure that this law continues.&lt;/p&gt;
+
+&lt;p&gt;“Regular boosts to computing performance that used to come from Moore’s Law will continue, and will instead stem from changes to how chips are designed.” — Mike Muller, CTO at ARM&lt;/p&gt;
+
+&lt;p&gt;What this does not mean is that a user’s experience of computer speed will increase. We tend to be more sloppy with application development when it’s cheap to make up for it with hardware horsepower. There is a standing joke that the same amount of computing resources that were used to send astronauts to the moon in the ’60s is now accidentally used by a sluggish browser tab.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-kryders-law&quot;&gt;&lt;strong&gt;2. Kryder’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The second law driving our propulsion into the technological singularity is Kryder’s Law. It states, loosely, that digital storage doubles every year. It specifically has to do with magnetic storage but the principle is applicable to all digital storage as you will see. While you may not see this law exactly played out in the price of external drives in your local Best Buy, you can see it if you consider the price of cloud storage services.&lt;/p&gt;
+
+&lt;p&gt;Let’s look at the current top cloud storage providers. Apple offers two terabytes of cloud storage for about $10 a month. Google offers the same space for the same price as well as 10 terabytes for about $100 a month. After that, users can get 20 terabytes for $200 a month, 30 terabytes for $300 a month, and so on. Dropbox offers yet a similar package but with extras like full-text search for $20 a month. Lastly and most competitive is Amazon offering an incredible $0.004 per gigabyte per month through its Glacier storage service. When you take these cloud providers into account and consider that they will only grow via economies of scale, you see that Kryder’s law is in full effect.&lt;/p&gt;
+
+&lt;p&gt;Note that this also doesn’t even take into consideration innovations like &lt;a href=&quot;https://href.li/?https://en.wikipedia.org/wiki/Filecoin&quot;&gt;Filecoin&lt;/a&gt; that actually distribute Kryder’s Law by allowing anyone with storage capacity to rent that space out. You could look at it like Uber or Airbnb for digital storage. This highlights the idea that this digital power law, like the others, should not be strictly tied to a hardware implementation. Similar to how Moore’s Law continues but not strictly through cramming more transistors on a chip but through new engineering architectures. The same principle applies.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-nielsens-law&quot;&gt;&lt;strong&gt;3. Nielsen’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Thirdly, we have Nielsen’s Law. If the previous laws could be summarized as computation and storage, this one is summarized as throughput. It states that bandwidth grows by 50% a year. More precisely, it states that the bandwidth of high-end users grows by 50% a year. That’s just 10% less annual growth than Moore’s Law.&lt;/p&gt;
+
+&lt;p&gt;In practice, we don’t see this linear growth and there are three reasons for it. One, Telecom companies are conservative. It cost billions of dollars to update their sprawling hardware. Two. The immediate impact of the end-user is not a guaranteed faster experience if they do upgrade their infrastructure. You can have the fastest hardware in the world on your street but that doesn’t automatically make the rest of the countries hardware faster. That slow loading web page may only be imperceptible faster after your area’s hardware is upgraded. Lastly, as new people get online, it’s more likely they are using older slower devices so the average expected speed is kept pressed down by these newcomers.&lt;/p&gt;
+
+&lt;p&gt;Since 1G was introduced in the 1980s, new wireless technology has been released every ten years. The advent of 1G introduced mobile telephony. Than 2G in the ’90s brought about global roaming and SMS. The 200’s saw 3G and smartphones with data. 2010 introduced 4G and mobile broadband. The year 2020 will be the year of 5G and the realization of the fully ubiquitous cloud. To put this in perspective, let’s say you wanted to download the newest episode of your favorite television show. At 800MB it would have taken 8 hours hrs to download in 1998, 5 hrs in 2001, 45 minutes in 2009, and 1 second with the new wireless protocol.&lt;/p&gt;
+
+&lt;p&gt;The impact and roll out of 5G will be enormous. With current networks, it takes about 100 milliseconds for information to travel across a network. With 5G, that latency will be reduced to 1 millisecond. We are talking about downloading full-length 5k movies in less than a second, surgeons controlling surgical robots in real-time from across the country, smart cities, and smart car-to-car communications.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-koomeys-law&quot;&gt;&lt;strong&gt;4. Koomey’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Koomey’s law has to do with the efficient use of energy and states that the number of computations per joule of energy dissipated has been doubling approximately every 1.57 years. This trend has been stable since the 1950s and has been faster than Moore’s law. Jonathan Koomey reframed the trend as follows: “at a fixed computing load, the amount of battery you need will fall by a factor of two every year and a half”. You can see the effect of this law in today’s newest generation CPU’s (Apple’s M1 chip) that are pumping out incredible amounts of processing power at significantly reduced levels of energy consumption.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-metcalfes-law&quot;&gt;&lt;strong&gt;5. Metcalfe’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;This power law with its closely associated cousin, the network effect, asserts that the value of a network is proportional to how many users are a part of it and that the addition of a new member adds value to all the existing members. A good example of this power law at work are social media sites like Facebook and YouTube. These sites had no revenue model in the beginning and were very expensive to run but grew to have so many users that the value grew directly from the value of the size of the network itself. Not too many years ago, software products had to packaged on physical media and shipped through the mail to users. Now, the same products can be built and deployed to one of any number of app stores and have a global audience with little to no overhead.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-hendys-law&quot;&gt;&lt;strong&gt;6. Hendy’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Next, consider Hendy’s Law. Hendy’s Law states that the number of pixels per dollar in a digital camera doubles every two years. We can generalize this trend to encompass the idea that our ability to capture images and video of the world is exponentially improving year over year. This improvement opens the door to such high-fidelity VR and lifelogging that our human senses begin to find synthetic media and real-life indistinguishable. This already exists in the form of gigapixel photography where images are used instead of real specimens in biological study where we can’t tell the difference even under a microscope. Imagine being able to photograph a group of people and then zoom in so close later that you can identify properties of their cellular biology.&lt;/p&gt;
+
+&lt;h2 id=&quot;7-bells-law&quot;&gt;&lt;strong&gt;7. Bell’s Law&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Last on our list is Bell’s Law. It says a new class of smaller, cheaper computers comes along about every decade. With each new class, the volume shrinks by two orders of magnitude, and the number of systems per person increases. The law has held from 1960s’ mainframes through the ‘80s’ personal computers, the ‘90s’ notebooks, and the new millennium’s smart phones. This is likely manifesting in the realm of wearable right now with the wild success of smart watched and wireless intelligent earbuds.&lt;/p&gt;
+
+&lt;p&gt;To wrap this up and summarize, while there may be temporary or geographically isolated stalls in the progression of these laws, they are still holding steady. You might compare them to walking up a set of stairs. At various points in your travel up the stairs, you rise up very high and then drop low. You do not move at a constant linearly increasing height. You go up and down but the trend is a clear move upwards. Through that up and down, you are converging on a net increase. The same is true of these digital laws. The overarching result is that software is eating the world and eating itself, recursively accelerating the process even further. One doesn’t need to theorize about potential advances in machine intelligence to see that we are accelerating into an unimaginable future. A clear technological singularity.&lt;/p&gt;
+
+&lt;p&gt;If none of the above convinces I will leave you with this chart illustrating the grown of the global economy. Assuming the continuation of these power laws, where are we 50–100 years from now?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog-img-2.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="technological" />
+      
+        <category term="singularity" />
+      
+        <category term="technology" />
+      
+
+      
+        <summary type="html">When people talk about the technological singularity they usually do so exclusively in the context of Moore’s Law. But there are several Moore’s Law-like laws at work in the world and each of them is equally baffling. I’m referring to this list of trends as “power laws” because of the nature of their incredible rate of growth and because they independently work as pistons driving the engine of the singularity. A few things to note about these power laws. Firstly they are just observations. There are no, known, deeper physical principles in the universe that would lead us to believe that they must hold true. Secondly, we’ve observed these trends long enough to warren their recognition as power laws and there is no evidence or signs of their stagnating. We’ll start with the most famous and well-known power law and work our way through the others.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Hacking Your Situation</title>
+      <link href="/hack-your-situation" rel="alternate" type="text/html" title="Hacking Your Situation" />
+      <published>2020-04-24T10:18:00+00:00</published>
+      <updated>2020-04-24T10:18:00+00:00</updated>
+      <id>/hack-your-situation</id>
+      <content type="html" xml:base="/hack-your-situation">&lt;p&gt;I had a really interesting conversation with a software developer from Uganda this morning. We came in contact through a mutual friend in Dubai and the next thing you know we were chatting away via teleconference (the internet is an incredible thing). At the beginning of the conversation, he was discouraged and unsure about the future of his career. He spoke fluent English and had serious coding chops but didn’t feel he could make enough money in the local economy or compete in the global market of software engineers. By the end of our talk, a radical change in perspective had occurred.&lt;/p&gt;
+
+&lt;p&gt;Rather than counting himself among the pool of local low-cost engineers, he shifted to see them as his resource. He had already proven that he could build MVP products and win clients to those products. The only link left was to direct those achievable streams of income into scaling those products using the very local, low-cost engineering resources he was afraid to be counted among. I was as amazed as him by the end of our talk. No facts had changed but a completely different perspective had been achieved. Inefficiencies were identified about his circumstance that could then be taken advantage of instead of lamented. A few things come to my mind when the above scenario played out. The first was arbitrage.&lt;/p&gt;
+
+&lt;p&gt;“…an arbitrage opportunity is present when there is the possibility to instantaneously buy something for a low price and sell it for a higher price.” - &lt;a href=&quot;https://href.li/?https://en.wikipedia.org/wiki/Arbitrage&quot;&gt;Wiki&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All entrepreneurship can be boiled down to this. Take something of lower value and moving it into a context of higher value. The real challenge is in identifying those arbitrage opportunities. The second thing that came to my mind was the Stirling engine. A Stirling engine is an engine, driven by differences in temperature. By virtue of its makeup, simply placing a Stirling engine on a heat source will cause the motor to run.&lt;/p&gt;
+
+&lt;p&gt;“..the stirling engine uses the temperature difference between its hot end and cold end to…converting thermal energy into mechanical energy. The greater the temperature difference between the hot and cold sources, the greater the thermal efficiency..” - &lt;a href=&quot;https://href.li/?https://en.wikipedia.org/wiki/Stirling_engine&quot;&gt;Wiki&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This thermal inefficiency or disequilibrium is captured and taken advantage of to perform work. You could almost say that the Stirling engine is doing arbitrage on thermodynamics to run its self.&lt;/p&gt;
+
+&lt;p&gt;The last thing to come to my mind was the book &lt;a href=&quot;https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.com%2FDavid-Goliath-Underdogs-Misfits-Battling%2Fdp%2F0316204374&amp;amp;t=NGVmYmQwMGM5MGZiNGQ4ZTVhYWE3MTAxYmZjNjg4YjVmMTM5ZWIxZCw0V3JpQW9MMg%3D%3D&amp;amp;b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&amp;amp;p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F616240442402619392%2Fhack-your-situation&amp;amp;m=1&amp;amp;ts=1642041644&quot;&gt;David and Goliath by Malcolm Gladwell&lt;/a&gt;. In this book, Gladwell examines notably historical people who had, what seemed to be, disadvantages but who then turned those perceived disadvantages into strengths. The book was highly criticized and many claimed what it was saying was too obvious to be of interest. I think such criticism misses the point. The profound idea is this. What if everyone’s perceived disadvantages are, in fact, unique opportunities to become people we could not otherwise be?&lt;/p&gt;
+
+&lt;p&gt;There is no free lunch and, like engineering, there are tradeoffs to every situation. The same is true of one’s personal makeup, history, knowledge, and situation. The trick is this: Identify the unique arbitrage opportunities present in your exact situation and, like a Stirling engine, use them to your advantage being confident that they are there. The only question is whether you are seeing them. Ask yourself these questions: What unique resource do I have an abundance of right now? To whom or in what context would this resource be of greater value? Lasting, ask yourself: What can be done to capitalize on this disequilibrium?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">I had a really interesting conversation with a software developer from Uganda this morning. We came in contact through a mutual friend in Dubai and the next thing you know we were chatting away via teleconference (the internet is an incredible thing). At the beginning of the conversation, he was discouraged and unsure about the future of his career. He spoke fluent English and had serious coding chops but didn’t feel he could make enough money in the local economy or compete in the global market of software engineers. By the end of our talk, a radical change in perspective had occurred.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Computer Generated Education</title>
+      <link href="/computer-generated-education" rel="alternate" type="text/html" title="Computer Generated Education" />
+      <published>2020-01-07T10:18:00+00:00</published>
+      <updated>2020-01-07T10:18:00+00:00</updated>
+      <id>/computer-generated-education</id>
+      <content type="html" xml:base="/computer-generated-education">&lt;p&gt;Everything is a Story**
+**&lt;/p&gt;
+
+&lt;p&gt;As humans, we are primed at the deepest levels to listen to and tell stories. We create movies, television shows, write novels, and sit around the dinner table telling each other stories about our day. It goes even deeper than that. It’s said that even startups rise or fall on the quality of the story behind the business venture. We even frame the whole way we deliver software products around user capabilities described in “User Stories”. So it should come with little surprise that all the major social media platforms have organized around the story format. Stories in the social media context are bite-sized multimedia experiences. Adopted by Snapchat, Instagram, TikTok, Facebook, YouTube, and WhatsApp. Even traditional media is trying to capitalize on this format with efforts like &lt;a href=&quot;https://href.li/?https://en.wikipedia.org/wiki/Quibi&quot;&gt;Quibi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was reading a dystopian article by Nicholas Carr called &lt;a href=&quot;https://href.li/?http://www.roughtype.com/?p=8677&quot;&gt;TikTok and the coming of infinite media&lt;/a&gt; around the same time of discovering my two niece’s obsession with Snapchat “streaks”. A streak is a kind of “don’t break the chain” gamification employed by Snapchat whereby users are called out with badges signifying their daily storytelling. My nieces were so attached to their streaks that the potential loss of their phone privileges and subsequent break of streaks filled them with horror. Between the Carr article and my first-hand observation of this obsession, I felt that surely all of western civilization was doomed and rapidly sliding into utter banality and destruction. The thought occurred to me that there had to be a way to leverage this mechanic and these flatforms in a more beneficial way.&lt;/p&gt;
+
+&lt;p&gt;This gave rise to the idea of using procedurally generated educational content combined with computer-driven evaluation methods to repurpose these social media distribution channels and game mechanics for good. Let’s look at both aspects individually.&lt;/p&gt;
+
+&lt;p&gt;Computer Generated Stories&lt;/p&gt;
+
+&lt;p&gt;Media, in the social media story format, can be &lt;a href=&quot;https://href.li/?https://en.wikipedia.org/wiki/Synthetic_media&quot;&gt;created programmatically&lt;/a&gt;. I’ve done several experiments with &lt;a href=&quot;https://href.li/?https://www.narakeet.com/&quot;&gt;Narakeet&lt;/a&gt; and can personally attest to how easy it is to dynamically create short videos purely from text, images, and some short pre-made video clips. Google is even currently experimenting with this by creating &lt;a href=&quot;https://href.li/?https://ai.googleblog.com/2020/10/experimenting-with-automatic-video.html&quot;&gt;videos from websites&lt;/a&gt;. One could use thematically related content from sources like Wikipedia or open textbooks to create series of social media stories that are educational and conveniently consumable.&lt;/p&gt;
+
+&lt;p&gt;Computer Generated Tests&lt;/p&gt;
+
+&lt;p&gt;The second part of this is the evaluation side of things. It’s good and all to be consuming educational content as opposed to mediocre entertainment but we can take it further. Studies show that merely having the expectation of &lt;a href=&quot;https://href.li/?https://www.theatlantic.com/education/archive/2014/01/students-should-be-tested-more-not-less/283195/&quot;&gt;being evaluated&lt;/a&gt; or &lt;a href=&quot;https://href.li/?https://www.researchgate.net/publication/262533649_Expecting_to_teach_enhances_learning_and_organization_of_knowledge_in_free_recall_of_text_passages&quot;&gt;having to explain&lt;/a&gt; material improves one’s retention of material. Crazily enough, recent advances in computer science language models have made it possible to automatically generate true/false quizzes from a piece of textual content. So from the same body of text, you can create short instructional videos and short quizzes to evaluate the viewer’s retention of that information. &lt;a href=&quot;https://href.li/?https://ramsrigoutham.medium.com/&quot;&gt;Ramsri Goutham&lt;/a&gt; has made this an easily accessible reality in the form of an open-source tool called &lt;a href=&quot;https://href.li/?https://github.com/ramsrigouthamg/Questgen.ai&quot;&gt;Questgen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Conclusion&lt;/p&gt;
+
+&lt;p&gt;The same science that can create a bomb can create nearly limitless inexpensive energy. Rather than deriding how technology is being used, we need to evaluate how it can be repurposed and reconfigured for good. The above scheme has enormous potential and is probably only limited by our willingness to step out of our comfort zones and think outside the box. Consider the educational crisis of over-packed classrooms or empty classrooms in the case of the ongoing and evolving pandemic. This approach doesn’t even require the creation of a new network because it exists as just another channel on the existing social media networks. Or imagine trying to shift the culture in a large scale enterprise setting. Do you hire teams of trainers and coaches to make that change or introduce a large scale reeducation program that can be executed by a small set of technical experts?&lt;/p&gt;
+
+&lt;p&gt;Several years ago I wanted to test out of some college classes so instead of taking the classes that would have required me to drive and sit through, what I believed to be inefficient class activities, I just downloaded some flashcard apps designed for that material. Then every morning when I woke up, I spent about an hour cycling through the cards, studying the concepts, major figures, history, and principles of the topic. The flashcard app kept track of my growing accuracy and used spaced repetition to perfectly time when certain problem cards were repeated. It honestly didn’t even feel like work.&lt;/p&gt;
+
+&lt;p&gt;James Clear in his amazing book &lt;a href=&quot;https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01N5AX61W%2Fref%3Ddp-kindle-redirect%3F_encoding%3DUTF8%26btkr%3D1&amp;amp;t=MTFhNDBiZTFiY2JmMWMyN2ZhYzdiNTAyNjZmMjA5MTllYmNiNzBlMyxoR3NSMkdlbw%3D%3D&amp;amp;b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&amp;amp;p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F639615818050748417%2Fcomputer-generated-education&amp;amp;m=1&amp;amp;ts=1642041111&quot;&gt;Atomic Habits&lt;/a&gt; talks about reducing the friction to do the things you want to be doing and I can’t think of a better friction reducer than to be strategically replacing people’s social media addition with the gamified education described above.&lt;/p&gt;
+
+&lt;iframe id=&quot;embed-61df8f178a3da008882692&quot; class=&quot;embed_iframe&quot; src=&quot;https://safe.txmblr.com/svc/embed/inline/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKvMxLpce3Xw%26ab_channel%3DJaySmith#embed-61df8f178a3da008882692-partied&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; mozallowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; style=&quot;position: absolute; top: 0px; left: 0px; width: 644px; height: 352.188px;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Everything is a Story** **</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Deepfake</title>
+      <link href="/deepfake" rel="alternate" type="text/html" title="Deepfake" />
+      <published>2018-09-18T10:18:00+00:00</published>
+      <updated>2018-09-18T10:18:00+00:00</updated>
+      <id>/deepfake</id>
+      <content type="html" xml:base="/deepfake">&lt;p&gt;The era of post truth is upon us. AI and ML is now being used to replace people’s faces in videos and live feeds. New software frameworks like FakeApp make it possible for anyone to produce these marvels of technology and it’s only the beginning. News and media are only now waking up to the power of such expressions. It fist got notoriety when Reddit users started using the technology to create face celebrity pornography. Major social networks have banned such works by categorizing them as involuntary pornography. But this technologies usage goes far beyond pornography. Imagine the usefulness of this technology in the art of psyop’s and propaganda.&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cQ54GDm1eL0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; style=&quot;width: 644px; color: rgb(102, 103, 105); font-family: Cabin, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;One does not merely need to attribute a statement to someone, they can actually show images and video. Concerns over the use of this new readily available technology have created a sort of arms race between the creation of this kind of material and its detection. We are back to a Voight-Kampff situation once again. &lt;a href=&quot;http://singularityhacker.com/post/69757867280/voight-kampff-machines&quot;&gt;I spoke about this years ago&lt;/a&gt; in the context of robocalls but it seems this will be a recurring theme as machines continue to bridge the uncanny valley of human similitude&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qc5P2bvfl44&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; style=&quot;width: 644px; color: rgb(102, 103, 105); font-family: Cabin, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The term deepfake is taken from deep learning, the new field of computer science that uses machine learning and artificial intelligence to do things that would almost be impossible with traditional methods of human driven programming. The SIGGRAPH 2018 conference just happened and new demonstrations showed this technology is just beginning. SIGGRAPH is a five-day immersion into the latest innovations in CG, Animation, VR, Games, Digital Art, Mixed Reality and Emerging Technologies.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="deepfake" />
+      
+        <category term="machinelearning" />
+      
+
+      
+        <summary type="html">The era of post truth is upon us. AI and ML is now being used to replace people’s faces in videos and live feeds. New software frameworks like FakeApp make it possible for anyone to produce these marvels of technology and it’s only the beginning. News and media are only now waking up to the power of such expressions. It fist got notoriety when Reddit users started using the technology to create face celebrity pornography. Major social networks have banned such works by categorizing them as involuntary pornography. But this technologies usage goes far beyond pornography. Imagine the usefulness of this technology in the art of psyop’s and propaganda.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Polymath</title>
+      <link href="/polymath" rel="alternate" type="text/html" title="Polymath" />
+      <published>2018-08-15T10:18:00+00:00</published>
+      <updated>2018-08-15T10:18:00+00:00</updated>
+      <id>/polymath</id>
+      <content type="html" xml:base="/polymath">&lt;p&gt;Less than 10% of stock trading is done my humans. All the rest is machines. Quantitative investing based on computer formulas and trading by machines directly are leaving the traditional stock picker in the dust and now dominating the equity markets, according to a new report from JPMorgan. Notice the rise of M2M trading in the following insane &lt;a href=&quot;https://href.li/?https://imgur.com/a/Ntm9z&quot;&gt;gif&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Look at it this way. Algorithmic trading are the bots reaching out from cyberspace to trade on our stock market. A new project aims to take that to the next level. Enter &lt;a href=&quot;https://href.li/?https://www.polymath.network/&quot;&gt;Polymath&lt;/a&gt;. &lt;a href=&quot;https://href.li/?https://www.polymath.network/&quot;&gt;Polymath&lt;/a&gt; aims to make it easy for companies to put all financial securities (stocks, bonds, venture capital, and private equity) on the Blockchain.&lt;/p&gt;
+
+&lt;p&gt;They call this new approach a security token offering (STO) and contrast it with the utility tokens or ICO’s all the other companies are promoting. They are doing all this in compliance with SEC regulatory requirements and know-your-customer (KYC) laws.&lt;/p&gt;
+
+&lt;p&gt;If that doesn’t cause your jaw to drop, look at it this way. If the machines are reaching out to trade on our stock market, &lt;a href=&quot;https://href.li/?https://www.polymath.network/&quot;&gt;Polymath&lt;/a&gt; is moving the stock market and the whole world of financial securities to the machine world via the Blockchain. Full stop. Let that sink in. Programmable securities. Financial instruments reimagined as pure data structures.&lt;/p&gt;
+
+&lt;p&gt;I was never a car guy until Tesla. Tesla changed at that. It was described as a computer on wheels with its own API. I could understand that and get behind it. It suddenly interested me very much. &lt;a href=&quot;https://href.li/?https://www.polymath.network/&quot;&gt;Polymath&lt;/a&gt; is going to do the same thing for finance. If software is eating the world, it’s about to consume the most profitable game in town. Finance. Put your seatbelts on and keep your eye out for &lt;a href=&quot;https://href.li/?https://www.polymath.network/&quot;&gt;Polymath&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe id=&quot;embed-61df91e763d01159215700&quot; class=&quot;embed_iframe&quot; src=&quot;https://safe.txmblr.com/svc/embed/inline/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpOYcro53SOI#embed-61df91e763d01159215700-partied&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; mozallowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; style=&quot;position: absolute; top: 0px; left: 0px; width: 644px; height: 352.188px;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="polymath" />
+      
+        <category term="blockchain" />
+      
+        <category term="finance" />
+      
+        <category term="ethereum" />
+      
+
+      
+        <summary type="html">Less than 10% of stock trading is done my humans. All the rest is machines. Quantitative investing based on computer formulas and trading by machines directly are leaving the traditional stock picker in the dust and now dominating the equity markets, according to a new report from JPMorgan. Notice the rise of M2M trading in the following insane gif.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">A History of Computation by Justice conder</title>
+      <link href="/a-history-of-computation-by-justice-conder" rel="alternate" type="text/html" title="A History of Computation by Justice conder" />
+      <published>2018-04-18T10:18:00+00:00</published>
+      <updated>2018-04-18T10:18:00+00:00</updated>
+      <id>/a-history-of-computation-by-justice-conder</id>
+      <content type="html" xml:base="/a-history-of-computation-by-justice-conder">&lt;iframe id=&quot;youtube_iframe&quot; src=&quot;https://www.youtube.com/embed/2FlW-2l0mH8?feature=oembed&amp;amp;enablejsapi=1&amp;amp;origin=https://safe.txmblr.com&amp;amp;wmode=opaque&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot;position: absolute; top: 0px; left: 0px; width: 684px; height: 513px;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A History of Computation by Justice conder&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Polymath</title>
+      <link href="/digital-nomad" rel="alternate" type="text/html" title="Polymath" />
+      <published>2017-01-15T10:18:00+00:00</published>
+      <updated>2017-01-15T10:18:00+00:00</updated>
+      <id>/digital-nomad</id>
+      <content type="html" xml:base="/digital-nomad">&lt;p&gt;1 - Power Source: 100W solar panel (about $150 on Amazon)&lt;/p&gt;
+
+&lt;p&gt;2 - Power Storage: 12V lead acid deep cycle battery (about $65)&lt;/p&gt;
+
+&lt;p&gt;3 - Food: Soylent only, unless eating out w/ friends (&lt;a href=&quot;https://t.umblr.com/redirect?z=http%3A%2F%2Fsoylent.com%2F&amp;amp;t=OGQ3YzA1NWI5Y2ZkMzU2Y2Y3ZTFhNzVhMWRiYTc2MjExYzQ1M2YzYSxxRzM5ZW52dQ%3D%3D&amp;amp;b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&amp;amp;p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F155928165035%2Fdigital-nomad&amp;amp;m=1&amp;amp;ts=1642042727&quot;&gt;soylent.com&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;4 - Food: Staples are purchased online&lt;/p&gt;
+
+&lt;p&gt;5 - Drink: Red wine, needs no refrigeration&lt;/p&gt;
+
+&lt;p&gt;6 - Drink: Coffee &amp;amp; Tea, use of butane stove to heat water&lt;/p&gt;
+
+&lt;p&gt;7 - Transportation: Uber and the city bus&lt;/p&gt;
+
+&lt;p&gt;8 - Computing: downgrade from desktop to low power Intel NUC&lt;/p&gt;
+
+&lt;p&gt;9 - Phone: Android&lt;/p&gt;
+
+&lt;p&gt;10 - Clothing: synthetic custom from China&lt;/p&gt;
+
+&lt;p&gt;11 - Comfort: leave the windows open for fresh air&lt;/p&gt;
+
+&lt;p&gt;12 - Lighting: adjustable RGB LEDs&lt;/p&gt;
+
+&lt;p&gt;13 - Entertainment: read, study, hobbies, walk&lt;/p&gt;
+
+&lt;p&gt;14 - Movies: RIF6 Cube LED projector, Amazon Fire TV Stike, LTE hotspot&lt;/p&gt;
+
+&lt;p&gt;**Note: large kitchen appliances are not used.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="polymath" />
+      
+        <category term="blockchain" />
+      
+        <category term="finance" />
+      
+        <category term="ethereum" />
+      
+
+      
+        <summary type="html">1 - Power Source: 100W solar panel (about $150 on Amazon)</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

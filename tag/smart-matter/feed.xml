@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/smart-matter/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/smart-matter/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Pingable Matter: This is a hammer.</title>
+      <link href="/pingable-matter-when-everything-starts-talking" rel="alternate" type="text/html" title="Pingable Matter: This is a hammer." />
+      <published>2014-09-29T10:18:00+00:00</published>
+      <updated>2014-09-29T10:18:00+00:00</updated>
+      <id>/pingable-matter-when-everything-starts-talking</id>
+      <content type="html" xml:base="/pingable-matter-when-everything-starts-talking">&lt;p&gt;This is a hammer in 2060. It knows that it’s a hammer. It knows when and where it was made, when it was sold, who it belongs to, and how many nails its pounded. It carries its own history and MSDS sheets.&lt;/p&gt;
+
+&lt;p&gt;This is the &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Internet_of_Things&quot;&gt;Internet of Things&lt;/a&gt; (IoT). It’s not merely fitness trackers and smart light switches. IoT is about pingable matter. It’s when everything starts talking. Buildings that know how many occupants they have and report structural integrity issues or fires. Clothes that measure perspiration and tell you when they need to be washed. Food packaging that optimizes recipes based on taste and expiration dates.&lt;/p&gt;
+
+&lt;p&gt;We’re a long way from this vision of things but it’s approaching faster than people realize. Yesterdays smartphone is todays smart watch is tomorrow’s smart ring.&lt;/p&gt;
+
+&lt;p&gt;In order to achieve this, we need matter that can communicate and think. This can likely be achieved with &lt;a href=&quot;https://href.li/?http://thefutureofthings.com/3221-hitachi-develops-worlds-smallest-rfid-chip/&quot;&gt;RFID smart dust&lt;/a&gt; and &lt;a href=&quot;https://href.li/?http://www.rabbitproto.com/&quot;&gt;printed electronics&lt;/a&gt;. We also need a ubiquitous and continuous supply of power. This need as given rise to a whole field of study called &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Energy_harvesting&quot;&gt;energy harvesting&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“Energy harvesting (also known as power harvesting or energy scavenging) is the process by which energy is derived from external sources (e.g. solar power, thermal energy, wind energy, salinity gradients, and kinetic energy), captured, and stored for small, wireless autonomous devices, like those used in wearable electronics and wireless sensor networks.” - Energy Harvesting, Wikipedia&lt;/p&gt;
+
+&lt;p&gt;Between these components, you can see how we are gradually transforming the world into a computing system. Every physical object is a piece of a great &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Von_Neumann_architecture&quot;&gt;von neumann architecture&lt;/a&gt;. We are making a world operated by software agents and interfaced through augmented reality. We will indeed be &lt;a href=&quot;http://singularityhacker.com/post/10958007933/augmented-reality-living-in-cyberspace&quot;&gt;occupying cyberspace&lt;/a&gt;, not merely accessing it.&lt;/p&gt;
+
+&lt;p&gt;For the enterprising soul who wants to build IoT and not merely talk about it, you can get started right now with a &lt;a href=&quot;https://href.li/?https://www.spark.io/dev-kits&quot;&gt;Spark Core&lt;/a&gt; kit and &lt;a href=&quot;https://href.li/?http://dweet.io/&quot;&gt;dweet.io&lt;/a&gt;. The board (only $40) is a tiny WiFi connected development board designed to aid in making IoT devices and and dweet is like Twitter but for machines. Check em out and happy hacking.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="internet of things" />
+      
+        <category term="smart matter" />
+      
+        <category term="smart dust" />
+      
+        <category term="cyberspace" />
+      
+        <category term="singularity" />
+      
+
+      
+        <summary type="html">This is a hammer in 2060. It knows that it’s a hammer. It knows when and where it was made, when it was sold, who it belongs to, and how many nails its pounded. It carries its own history and MSDS sheets.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

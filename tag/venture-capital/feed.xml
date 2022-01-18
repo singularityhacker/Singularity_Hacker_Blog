@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/venture-capital/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/venture-capital/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">The Power Law of Personality Extremes</title>
+      <link href="/the-power-law-of-freaks-and-geeks" rel="alternate" type="text/html" title="The Power Law of Personality Extremes" />
+      <published>2015-07-29T10:18:00+00:00</published>
+      <updated>2015-07-29T10:18:00+00:00</updated>
+      <id>/the-power-law-of-freaks-and-geeks</id>
+      <content type="html" xml:base="/the-power-law-of-freaks-and-geeks">&lt;p&gt;There are a few threads to connect here so be patient…&lt;/p&gt;
+
+&lt;p&gt;\1. There’s no free lunch in personality characteristics. Every strength exposes its self to another kind of weakness. This could be called the no-free-lunch rule of human psychological makeup.&lt;/p&gt;
+
+&lt;p&gt;\2. One fund (the unicorn) in a portfolio will perform better than all other successful funds. This means you need to put big money into a unicorn startup if you want to see real returns but it’s very difficult (impossible) to identify that startup. Identifying unicorns is to VC’s what successful trading strategies are to quants. It’s their bread and butter and its worth billions if you can work out a method for doing it.&lt;/p&gt;
+
+&lt;p&gt;\3. In an attempt to identify the black swan, investors are investing in startups they would have previously passed over because of personality extremes in the founders. VC’s invest in founders, not startups. This is why successful founders get funded repeatedly and how they end up being serial entrepreneurs.&lt;/p&gt;
+
+&lt;p&gt;The takeaway: Be your self. Don’t try to be any one else. Maximize your strengths and don’t lose sleep over your weaknesses. Accept that you have limited bandwidth. Focus on the essentials.&lt;/p&gt;
+
+&lt;p&gt;As an aside: Another metric specifically related to founders that VC’s can use to determine startup success is the &lt;a href=&quot;https://href.li/?http://www.theatlantic.com/technology/archive/2012/03/the-q-score-how-y-combinators-startups-are-like-broadway-musicals/254531/&quot;&gt;Q score&lt;/a&gt;. A ratio that represents how many of the founders have worked together in the past. Projects like &lt;a href=&quot;https://href.li/?https://startupgenome.co/&quot;&gt;Startup Gnome&lt;/a&gt; would do well to start integrating founder data into the information they gather.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="venture capital" />
+      
+        <category term="power laws" />
+      
+        <category term="black swan" />
+      
+
+      
+        <summary type="html">There are a few threads to connect here so be patient…</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Not Your Granddaddy’s IT</title>
+      <link href="/not-your-granddaddys-it" rel="alternate" type="text/html" title="Not Your Granddaddy’s IT" />
+      <published>2014-12-17T10:18:00+00:00</published>
+      <updated>2014-12-17T10:18:00+00:00</updated>
+      <id>/not-your-granddaddys-it</id>
+      <content type="html" xml:base="/not-your-granddaddys-it">&lt;p&gt;I was recently told of an encounter between a group of venture capitalist and a small but established local technology company. I was told of the VC’s tour of the facility and the questions they asked the owner. There were three particular questions/complains from the potential investors that symbolize the shift in Information Technology that has occurred in only the last couple of years.&lt;/p&gt;
+
+&lt;p&gt;“Why is your blog not be updated or maintained?”
+Gone are the days when blogging is considered a geeky distraction from ‘real’ work. Your blog is arguably THE most important starting point for promoting your brand. Business to customer (B2C) companies that maintain a blog get 88% more leads per month than companies that don’t blog and yet less than half (roughly 40%) of US companies use blogs for marketing purposes. You can see from these numbers that we’re at a critical juncture.&lt;/p&gt;
+
+&lt;p&gt;“Why did you purchase and maintain your own servers?”
+This highlights the fact that in today’s climate, there must be a clear business reason to maintain your own physical servers. The cost savings and flexibility are just too great to not run your software from the cloud. I see a lot of instances where servers are localized just because the owners are comfortable doing that and because that’s the way it’s always been done. This doesn’t cut it anymore.&lt;/p&gt;
+
+&lt;p&gt;“Why aren’t you making your services available via an open API?”
+We live in an API-first climate. A business that prioritizes API has engineered itself to be extendable. In addition, one can reasonably question whether development is being done in a test driven fashion if there is no API . This can be a red flag to any investor trying to get an indication of code quality in a company.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="venture capital" />
+      
+        <category term="startups" />
+      
+        <category term="technology" />
+      
+        <category term="api" />
+      
+        <category term="blogging" />
+      
+
+      
+        <summary type="html">I was recently told of an encounter between a group of venture capitalist and a small but established local technology company. I was told of the VC’s tour of the facility and the questions they asked the owner. There were three particular questions/complains from the potential investors that symbolize the shift in Information Technology that has occurred in only the last couple of years.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

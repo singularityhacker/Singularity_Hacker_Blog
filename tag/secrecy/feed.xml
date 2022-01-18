@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/secrecy/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/secrecy/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">The Multiple Persona Theory of Digital Secrecy</title>
+      <link href="/the-multiple-persona-theory-of-digital-secrecy" rel="alternate" type="text/html" title="The Multiple Persona Theory of Digital Secrecy" />
+      <published>2015-03-17T10:18:00+00:00</published>
+      <updated>2015-03-17T10:18:00+00:00</updated>
+      <id>/the-multiple-persona-theory-of-digital-secrecy</id>
+      <content type="html" xml:base="/the-multiple-persona-theory-of-digital-secrecy">&lt;p&gt;This article has been updated, amplified, and refined to be included in an issue of &lt;a href=&quot;https://href.li/?https://www.2600.com/&quot;&gt;2600 Hacker Quarterly&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hacking" />
+      
+        <category term="secrecy" />
+      
+        <category term="snowden" />
+      
+        <category term="tor" />
+      
+
+      
+        <summary type="html">This article has been updated, amplified, and refined to be included in an issue of 2600 Hacker Quarterly.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Master the Currency of Time</title>
+      <link href="/time-the-ultimate-currency" rel="alternate" type="text/html" title="Master the Currency of Time" />
+      <published>2015-03-17T10:18:00+00:00</published>
+      <updated>2015-03-17T10:18:00+00:00</updated>
+      <id>/time-the-ultimate-currency</id>
+      <content type="html" xml:base="/time-the-ultimate-currency">&lt;p&gt;This article has been updated, amplified, and refined to be included in an issue of &lt;a href=&quot;https://href.li/?https://www.2600.com/&quot;&gt;2600 Hacker Quarterly&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hacking" />
+      
+        <category term="secrecy" />
+      
+        <category term="snowden" />
+      
+        <category term="tor" />
+      
+
+      
+        <summary type="html">This article has been updated, amplified, and refined to be included in an issue of 2600 Hacker Quarterly.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

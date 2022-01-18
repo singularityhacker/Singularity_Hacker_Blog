@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/reverse-engineering/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/reverse-engineering/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Reverse Engineering Human Emotion</title>
+      <link href="/reverse-engineering-human-emotion" rel="alternate" type="text/html" title="Reverse Engineering Human Emotion" />
+      <published>2014-09-28T10:18:00+00:00</published>
+      <updated>2014-09-28T10:18:00+00:00</updated>
+      <id>/reverse-engineering-human-emotion</id>
+      <content type="html" xml:base="/reverse-engineering-human-emotion">&lt;p&gt;Human emotion is probably the ultimate thing people say is not computable. But human emotion is indeed being reverse engineered right now through the proxy of sentiment analysis and human biometrics.&lt;/p&gt;
+
+&lt;p&gt;Consider the following technological innovations:&lt;/p&gt;
+
+&lt;p&gt;\1. Google glass can correlate what you see to how it affects you &lt;a href=&quot;https://href.li/?http://www.theverge.com/2013/8/18/4633558/google-patents-pay-per-gaze-eye-tracking-ads&quot;&gt;using pupil dilation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;\2. Apple Watch can monitor your heartbeat and skin temp to detect your subconscious state of excitement. See heart rate and galvanic skin temperatures use in lie detectors.&lt;/p&gt;
+
+&lt;p&gt;\3. Xbox one watches your face to detect happiness or frustration while playing games. Microsoft has even provided a mechanism in the SDK to let developers write emotion dependent control structures. This way they can make games harder or easier depending on your frustration or excitement levels.&lt;/p&gt;
+
+&lt;p&gt;\4. We routinely do voice analysis and textual semantic analysis on things like phone calls and tweets.&lt;/p&gt;
+
+&lt;p&gt;By tying these technologies together, we have effectively strapped a lie detector test on the back of everyone. The machines are watching our faces and measuring our neurological responses to stimuli.&lt;/p&gt;
+
+&lt;p&gt;If google image search and neural nets have taught us anything, it’s that given a large enough sample size, we can reverse engineer machine recognition and reproduction without being able to formally describe the means to accomplish it. We just drop our samples into a neural net and recognition/reproduction capabilities pop out the other end. Ok, it’s a little more complicated than that but you get the idea.&lt;/p&gt;
+
+&lt;p&gt;Don’t be surprised if your gadgets start not only understanding your emotional state, but miming an emotional state back at you. Why? Because humans love to anthropomorphize things and, whether we admit it to not, we would respond favorable to a product that seems to be alive and emotionally dynamic.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="singularity" />
+      
+        <category term="emotion" />
+      
+        <category term="reverse engineering" />
+      
+        <category term="ai" />
+      
+
+      
+        <summary type="html">Human emotion is probably the ultimate thing people say is not computable. But human emotion is indeed being reverse engineered right now through the proxy of sentiment analysis and human biometrics.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/machinelearning/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/machinelearning/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Deepfake</title>
+      <link href="/deepfake" rel="alternate" type="text/html" title="Deepfake" />
+      <published>2018-09-18T10:18:00+00:00</published>
+      <updated>2018-09-18T10:18:00+00:00</updated>
+      <id>/deepfake</id>
+      <content type="html" xml:base="/deepfake">&lt;p&gt;The era of post truth is upon us. AI and ML is now being used to replace people’s faces in videos and live feeds. New software frameworks like FakeApp make it possible for anyone to produce these marvels of technology and it’s only the beginning. News and media are only now waking up to the power of such expressions. It fist got notoriety when Reddit users started using the technology to create face celebrity pornography. Major social networks have banned such works by categorizing them as involuntary pornography. But this technologies usage goes far beyond pornography. Imagine the usefulness of this technology in the art of psyop’s and propaganda.&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cQ54GDm1eL0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; style=&quot;width: 644px; color: rgb(102, 103, 105); font-family: Cabin, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;One does not merely need to attribute a statement to someone, they can actually show images and video. Concerns over the use of this new readily available technology have created a sort of arms race between the creation of this kind of material and its detection. We are back to a Voight-Kampff situation once again. &lt;a href=&quot;http://singularityhacker.com/post/69757867280/voight-kampff-machines&quot;&gt;I spoke about this years ago&lt;/a&gt; in the context of robocalls but it seems this will be a recurring theme as machines continue to bridge the uncanny valley of human similitude&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qc5P2bvfl44&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; style=&quot;width: 644px; color: rgb(102, 103, 105); font-family: Cabin, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The term deepfake is taken from deep learning, the new field of computer science that uses machine learning and artificial intelligence to do things that would almost be impossible with traditional methods of human driven programming. The SIGGRAPH 2018 conference just happened and new demonstrations showed this technology is just beginning. SIGGRAPH is a five-day immersion into the latest innovations in CG, Animation, VR, Games, Digital Art, Mixed Reality and Emerging Technologies.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="deepfake" />
+      
+        <category term="machinelearning" />
+      
+
+      
+        <summary type="html">The era of post truth is upon us. AI and ML is now being used to replace people’s faces in videos and live feeds. New software frameworks like FakeApp make it possible for anyone to produce these marvels of technology and it’s only the beginning. News and media are only now waking up to the power of such expressions. It fist got notoriety when Reddit users started using the technology to create face celebrity pornography. Major social networks have banned such works by categorizing them as involuntary pornography. But this technologies usage goes far beyond pornography. Imagine the usefulness of this technology in the art of psyop’s and propaganda.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

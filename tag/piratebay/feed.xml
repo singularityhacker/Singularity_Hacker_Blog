@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/piratebay/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/piratebay/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">The Bitbay</title>
+      <link href="/the-bitbay" rel="alternate" type="text/html" title="The Bitbay" />
+      <published>2014-06-13T10:18:00+00:00</published>
+      <updated>2014-06-13T10:18:00+00:00</updated>
+      <id>/the-bitbay</id>
+      <content type="html" xml:base="/the-bitbay">&lt;p&gt;The Pirate Bay is the most famous fire sharing brand in the world. It wasn’t always that way (remember Napster) and it wont be that way for much longer.&lt;/p&gt;
+
+&lt;p&gt;File sharing technology has evolved over the years and, with each iteration, has increasingly immunized it’s self from the threat of seizure and shut down. The next generation of P2P technology has just arrived in the form of a &lt;a href=&quot;https://href.li/?http://www.wired.com/2014/04/darkmarket/&quot;&gt;DarkMarket&lt;/a&gt; and &lt;a href=&quot;https://href.li/?http://www.forbes.com/sites/andygreenberg/2013/10/31/darkwallet-aims-to-be-the-anarchists-bitcoin-app-of-choice/&quot;&gt;Dark Wallet&lt;/a&gt;. The technology now exist to run a fully distributed and anonymous marketplace impervious to any attempts to shut it down.&lt;/p&gt;
+
+&lt;p&gt;The technology may have arrived but the next great file sharing brand has not. I think that The Bit Bay could be that brand. It springboards off the brand recognition of The Pirate Bay and yet, would be built on a surer technological foundation. I’v been speculating that Bitcoin could be a means of monetizing file sharing for some time and I still think that the first person to execute on this idea will be stacking more benjamins then Kim Dotcom.&lt;/p&gt;
+
+&lt;p&gt;A fews years ago, I developed a prototype demonstrating the concept. This prototype has no backend because something like DarkMarket didn’t exist yet but it does use a Java applet from &lt;a href=&quot;https://href.li/?http://www.bitlet.org/&quot;&gt;bitlet.org&lt;/a&gt; that enables users to download torrent files without installing a client. All the code is inline so it could be posted to a paste bin or an anonymous static-file host.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog07.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m giving away this blackhat startup idea in hopes that someone with more savvy than I will run with it. Do amazing things!&lt;/p&gt;
+
+&lt;p&gt;I’m selling &lt;a href=&quot;https://t.umblr.com/redirect?z=https%3A%2F%2Fauctions.godaddy.com%2FtrpItemListing.aspx%3F%26miid%3D137160013&amp;amp;t=NjhiNTRkMjFkMWNjOWFiMDRiYTViNWFjMDdhNjdhZDU5OGY0MjlmMSxIcFhUNmV3Mg%3D%3D&amp;amp;b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&amp;amp;p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F85648826500%2Fthe-bitbay&amp;amp;m=1&amp;amp;ts=1642047023&quot;&gt;thebitbay.com&lt;/a&gt; domain for a very reasonable rate and my website prototype on &lt;a href=&quot;https://href.li/?https://gumroad.com/l/HaUaw&quot;&gt;Gumroad&lt;/a&gt; for $5. Happy hacking!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="bitcoin" />
+      
+        <category term="piracy" />
+      
+        <category term="darkmarket" />
+      
+        <category term="darkwallet" />
+      
+        <category term="piratebay" />
+      
+
+      
+        <summary type="html">The Pirate Bay is the most famous fire sharing brand in the world. It wasn’t always that way (remember Napster) and it wont be that way for much longer.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

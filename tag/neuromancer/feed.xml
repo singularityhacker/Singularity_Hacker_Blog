@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/neuromancer/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/neuromancer/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">The Birth of Cyberspace</title>
+      <link href="/the-birth-of-cyberspace" rel="alternate" type="text/html" title="The Birth of Cyberspace" />
+      <published>2015-01-04T10:18:00+00:00</published>
+      <updated>2015-01-04T10:18:00+00:00</updated>
+      <id>/the-birth-of-cyberspace</id>
+      <content type="html" xml:base="/the-birth-of-cyberspace">&lt;p&gt;William Gibson got the idea for the novel &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Neuromancer&quot;&gt;Neuromancer&lt;/a&gt; after seeing a bus stop poster for Apple. He began to imagine what this future would be like, when everybody lived inside a virtual universe. He named that universe “cyberspace”.&lt;/p&gt;
+
+&lt;p&gt;“The only computers I’d ever seen in those days were things the size of the side of a barn. And then one day, I walked by a bus stop and there was an Apple poster. The poster was a photograph of a businessman’s jacketed, neatly cuffed arm holding a life-size representation of a real-life computer that was not much bigger than a laptop is today. Everyone is going to have one of these, I thought, and everyone is going to want to live inside them. And somehow I knew that the notional space behind all of the computer screens would be one single universe.” - &lt;a href=&quot;https://href.li/?http://technoccult.net/archives/2011/06/18/william-gibson-on-the-creation-of-cyberspace/&quot;&gt;William Gibson&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cyberspace" />
+      
+        <category term="apple" />
+      
+        <category term="neuromancer" />
+      
+
+      
+        <summary type="html">William Gibson got the idea for the novel Neuromancer after seeing a bus stop poster for Apple. He began to imagine what this future would be like, when everybody lived inside a virtual universe. He named that universe “cyberspace”.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

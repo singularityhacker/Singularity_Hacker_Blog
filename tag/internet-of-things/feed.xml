@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/internet-of-things/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-01-18T06:47:47+00:00</updated>
+  <id>/tag/internet-of-things/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Singularity Hacker | </title>
+  
+
+  
+    <subtitle>Singularity Hacker</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">When Everything Wakes Up</title>
+      <link href="/when-everything-wakes-up" rel="alternate" type="text/html" title="When Everything Wakes Up" />
+      <published>2015-07-29T10:18:00+00:00</published>
+      <updated>2015-07-29T10:18:00+00:00</updated>
+      <id>/when-everything-wakes-up</id>
+      <content type="html" xml:base="/when-everything-wakes-up">&lt;p&gt;Get ready for a world of talking toasters, ATM’s, snack machines, hotels, houses, and coffee pots. We’ve been conditioned by every single fictional depiction of AI as coming about abruptly. One day your at the DMV and the next day Skynet takes over.  This is called a hard takeoff and it gets nearly 100% of media coverage.&lt;/p&gt;
+
+&lt;p&gt;Nick Bostrom, popular AI academic, thinks this is the most likely scenario and that it will result is a single dominant super AI (a singleton).&lt;/p&gt;
+
+&lt;p&gt;“The nature of the intelligence explosion does encourage a winner-take-all dynamic. In this case, if there is no extensive collaboration before the takeoff, a singleton is likely to emerge – a single project would undergo the transition alone, at some point obtaining a decisive strategic advantage.” - &lt;a href=&quot;https://href.li/?http://bit.ly/1RHsLtk&quot;&gt;http://bit.ly/1RHsLtk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In contrast, a soft takeoff prediction posits that every thing around us will get smarter and smarter and become a normal part of life and that we will get used to it much like the way we’ve gotten used to carrying &lt;a href=&quot;http://41.media.tumblr.com/tumblr_m8vo3eqOZT1r48h42o1_1280.png&quot;&gt;super computers&lt;/a&gt; around in our pockets. This view predicts that AI advances will happen incrementally and diffuse throughout society.&lt;/p&gt;
+
+&lt;p&gt;I believe this is far more realistic view of how things will unfold, and interesting, almost completely unrepresented in publicized AI discussions. The reality of the soft takeoff theory can be see by plotting the converging trajectory of two technologies:&lt;/p&gt;
+
+&lt;p&gt;\1. Artificial Intelligence as Utility&lt;/p&gt;
+
+&lt;p&gt;“It [AI] will enliven inert objects, much as electricity did more than a century ago. Everything that we formerly electrified we will now cognitize.. There is almost nothing we can think of that cannot be made new, different, or interesting by infusing it with some extra IQ… Like all utilities, AI will be supremely boring, even as it transforms the Internet, the global economy, and civilization.” - &lt;a href=&quot;https://href.li/?http://on.wsj.com/1RHtb2P&quot;&gt;http://on.wsj.com/1RHtb2P&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;\2. The Internet of Things&lt;/p&gt;
+
+&lt;p&gt;“This is the language of the future: tiny, intelligent things all around us, coordinating their activities. Coffeepots that talk to alarm clocks. Thermostats that talk to motion sensors. Factory machines that talk to the power grid and to boxes of raw material. A decade after Wi-Fi put all our computers on a wireless network—and half a decade after the smartphone revolution put a series of pocket-size devices on that network—we are seeing the dawn of an era when the most mundane items in our lives can talk wirelessly among themselves, performing tasks on command, giving us data we’ve never had before.” - &lt;a href=&quot;https://href.li/?http://wrd.cm/1RHt87k&quot;&gt;http://wrd.cm/1RHt87k&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m convinced that resistance to the soft takeoff theory in the coming years will likely be a result of people continuously raising the bar of what constitutes intelligence (see the &lt;a href=&quot;https://href.li/?https://en.wikipedia.org/wiki/AI_effect&quot;&gt;AI effect&lt;/a&gt;) rather than looking at the sate of technological progress with fresh eyes and perspective. As of this week anyone with Internet access and wherewithal can develop on and integrate with IBMs’ &lt;a href=&quot;https://href.li/?http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/&quot;&gt;Watson&lt;/a&gt; and Amazons’ &lt;a href=&quot;https://t.umblr.com/redirect?z=https%3A%2F%2Fdeveloper.amazon.com%2Fpublic%2Fsolutions%2Falexa%2Falexa-voice-service&amp;amp;t=MmIyODdlOWIzMDk3YTQ3YTBjNzVjODZhYjc4OWUxNWQ2ZmMyOWY1NSxjM0J6M1Y1Mw%3D%3D&amp;amp;b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&amp;amp;p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F122629237375%2Fwhen-everything-wakes-up&amp;amp;m=1&amp;amp;ts=1642044451&quot;&gt;Alexa&lt;/a&gt;. Let that sink in and now extrapolate out ten years. We are about to enter an age of technological animism.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="technological singularity" />
+      
+        <category term="internet of things" />
+      
+        <category term="artificial intelligence" />
+      
+
+      
+        <summary type="html">Get ready for a world of talking toasters, ATM’s, snack machines, hotels, houses, and coffee pots. We’ve been conditioned by every single fictional depiction of AI as coming about abruptly. One day your at the DMV and the next day Skynet takes over. This is called a hard takeoff and it gets nearly 100% of media coverage.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Pingable Matter: This is a hammer.</title>
+      <link href="/pingable-matter-when-everything-starts-talking" rel="alternate" type="text/html" title="Pingable Matter: This is a hammer." />
+      <published>2014-09-29T10:18:00+00:00</published>
+      <updated>2014-09-29T10:18:00+00:00</updated>
+      <id>/pingable-matter-when-everything-starts-talking</id>
+      <content type="html" xml:base="/pingable-matter-when-everything-starts-talking">&lt;p&gt;This is a hammer in 2060. It knows that it’s a hammer. It knows when and where it was made, when it was sold, who it belongs to, and how many nails its pounded. It carries its own history and MSDS sheets.&lt;/p&gt;
+
+&lt;p&gt;This is the &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Internet_of_Things&quot;&gt;Internet of Things&lt;/a&gt; (IoT). It’s not merely fitness trackers and smart light switches. IoT is about pingable matter. It’s when everything starts talking. Buildings that know how many occupants they have and report structural integrity issues or fires. Clothes that measure perspiration and tell you when they need to be washed. Food packaging that optimizes recipes based on taste and expiration dates.&lt;/p&gt;
+
+&lt;p&gt;We’re a long way from this vision of things but it’s approaching faster than people realize. Yesterdays smartphone is todays smart watch is tomorrow’s smart ring.&lt;/p&gt;
+
+&lt;p&gt;In order to achieve this, we need matter that can communicate and think. This can likely be achieved with &lt;a href=&quot;https://href.li/?http://thefutureofthings.com/3221-hitachi-develops-worlds-smallest-rfid-chip/&quot;&gt;RFID smart dust&lt;/a&gt; and &lt;a href=&quot;https://href.li/?http://www.rabbitproto.com/&quot;&gt;printed electronics&lt;/a&gt;. We also need a ubiquitous and continuous supply of power. This need as given rise to a whole field of study called &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Energy_harvesting&quot;&gt;energy harvesting&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“Energy harvesting (also known as power harvesting or energy scavenging) is the process by which energy is derived from external sources (e.g. solar power, thermal energy, wind energy, salinity gradients, and kinetic energy), captured, and stored for small, wireless autonomous devices, like those used in wearable electronics and wireless sensor networks.” - Energy Harvesting, Wikipedia&lt;/p&gt;
+
+&lt;p&gt;Between these components, you can see how we are gradually transforming the world into a computing system. Every physical object is a piece of a great &lt;a href=&quot;https://href.li/?http://en.wikipedia.org/wiki/Von_Neumann_architecture&quot;&gt;von neumann architecture&lt;/a&gt;. We are making a world operated by software agents and interfaced through augmented reality. We will indeed be &lt;a href=&quot;http://singularityhacker.com/post/10958007933/augmented-reality-living-in-cyberspace&quot;&gt;occupying cyberspace&lt;/a&gt;, not merely accessing it.&lt;/p&gt;
+
+&lt;p&gt;For the enterprising soul who wants to build IoT and not merely talk about it, you can get started right now with a &lt;a href=&quot;https://href.li/?https://www.spark.io/dev-kits&quot;&gt;Spark Core&lt;/a&gt; kit and &lt;a href=&quot;https://href.li/?http://dweet.io/&quot;&gt;dweet.io&lt;/a&gt;. The board (only $40) is a tiny WiFi connected development board designed to aid in making IoT devices and and dweet is like Twitter but for machines. Check em out and happy hacking.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Singularity Hacker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="internet of things" />
+      
+        <category term="smart matter" />
+      
+        <category term="smart dust" />
+      
+        <category term="cyberspace" />
+      
+        <category term="singularity" />
+      
+
+      
+        <summary type="html">This is a hammer in 2060. It knows that it’s a hammer. It knows when and where it was made, when it was sold, who it belongs to, and how many nails its pounded. It carries its own history and MSDS sheets.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
