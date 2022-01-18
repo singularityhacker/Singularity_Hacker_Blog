@@ -1,0 +1,9 @@
+[build]
+  command ="bundle exec jekyll serve"
+  publish = "/_site"
+  base = "/"
+
+[[ redirects ]]
+  from = "/*"
+  to = "/index.html"
+  status = "200"
